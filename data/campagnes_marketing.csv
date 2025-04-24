@@ -1,0 +1,10 @@
+Campagne_ID,Type,Canal,Magasin,Date_début,Date_fin
+CAMP_1,Réduction,SMS,Magasin_5,2024-02-12,2024-02-20
+CAMP_2,Evenement,SMS,Magasin_1,2024-01-07,2024-01-16
+CAMP_3,Réduction,Local,Magasin_2,2024-02-03,2024-02-11
+CAMP_4,Evenement,Email,Magasin_1,2024-02-07,2024-02-17
+CAMP_5,Evenement,SMS,Magasin_1,2024-01-13,2024-01-16
+CAMP_6,Evenement,SMS,Magasin_4,2024-01-01,2024-01-11
+CAMP_7,Réduction,Affiche,Magasin_3,2024-02-15,2024-02-21
+CAMP_8,Evenement,Local,Magasin_4,2024-02-22,2024-03-01
+CAMP_9,Evenement,SMS,Magasin_3,2024-02-01,2024-02-11

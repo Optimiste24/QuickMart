@@ -1,0 +1,1821 @@
+Date,Magasin,Employé_ID,Rôle,Heure_début,Heure_fin
+2024-01-01,Magasin_1,E1_Magasin_1,Employé polyvalent,10:00,17:00
+2024-01-01,Magasin_1,E2_Magasin_1,Caissier,11:00,19:00
+2024-01-01,Magasin_1,E3_Magasin_1,Employé polyvalent,7:00,13:00
+2024-01-01,Magasin_1,E4_Magasin_1,Manager,13:00,21:00
+2024-01-01,Magasin_2,E1_Magasin_2,Manager,9:00,17:00
+2024-01-01,Magasin_2,E2_Magasin_2,Caissier,9:00,16:00
+2024-01-01,Magasin_2,E3_Magasin_2,Manager,11:00,18:00
+2024-01-01,Magasin_2,E4_Magasin_2,Caissier,10:00,17:00
+2024-01-01,Magasin_3,E1_Magasin_3,Employé polyvalent,11:00,17:00
+2024-01-01,Magasin_3,E2_Magasin_3,Caissier,7:00,15:00
+2024-01-01,Magasin_3,E3_Magasin_3,Caissier,13:00,21:00
+2024-01-01,Magasin_3,E4_Magasin_3,Caissier,13:00,20:00
+2024-01-01,Magasin_4,E1_Magasin_4,Caissier,11:00,19:00
+2024-01-01,Magasin_4,E2_Magasin_4,Caissier,8:00,14:00
+2024-01-01,Magasin_4,E3_Magasin_4,Manager,7:00,15:00
+2024-01-01,Magasin_4,E4_Magasin_4,Manager,8:00,14:00
+2024-01-01,Magasin_5,E1_Magasin_5,Manager,8:00,16:00
+2024-01-01,Magasin_5,E2_Magasin_5,Manager,6:00,14:00
+2024-01-01,Magasin_5,E3_Magasin_5,Manager,9:00,16:00
+2024-01-01,Magasin_5,E4_Magasin_5,Employé polyvalent,11:00,17:00
+2024-01-02,Magasin_1,E1_Magasin_1,Caissier,6:00,13:00
+2024-01-02,Magasin_1,E2_Magasin_1,Caissier,9:00,16:00
+2024-01-02,Magasin_1,E3_Magasin_1,Employé polyvalent,12:00,20:00
+2024-01-02,Magasin_1,E4_Magasin_1,Caissier,11:00,19:00
+2024-01-02,Magasin_2,E1_Magasin_2,Manager,12:00,18:00
+2024-01-02,Magasin_2,E2_Magasin_2,Employé polyvalent,12:00,19:00
+2024-01-02,Magasin_2,E3_Magasin_2,Employé polyvalent,7:00,15:00
+2024-01-02,Magasin_2,E4_Magasin_2,Caissier,13:00,21:00
+2024-01-02,Magasin_3,E1_Magasin_3,Manager,11:00,19:00
+2024-01-02,Magasin_3,E2_Magasin_3,Manager,6:00,13:00
+2024-01-02,Magasin_3,E3_Magasin_3,Employé polyvalent,11:00,19:00
+2024-01-02,Magasin_3,E4_Magasin_3,Caissier,12:00,20:00
+2024-01-02,Magasin_4,E1_Magasin_4,Caissier,12:00,20:00
+2024-01-02,Magasin_4,E2_Magasin_4,Employé polyvalent,11:00,18:00
+2024-01-02,Magasin_4,E3_Magasin_4,Caissier,9:00,16:00
+2024-01-02,Magasin_4,E4_Magasin_4,Caissier,13:00,20:00
+2024-01-02,Magasin_5,E1_Magasin_5,Manager,7:00,15:00
+2024-01-02,Magasin_5,E2_Magasin_5,Employé polyvalent,8:00,15:00
+2024-01-02,Magasin_5,E3_Magasin_5,Caissier,13:00,21:00
+2024-01-02,Magasin_5,E4_Magasin_5,Manager,10:00,17:00
+2024-01-03,Magasin_1,E1_Magasin_1,Employé polyvalent,11:00,19:00
+2024-01-03,Magasin_1,E2_Magasin_1,Manager,7:00,15:00
+2024-01-03,Magasin_1,E3_Magasin_1,Employé polyvalent,6:00,13:00
+2024-01-03,Magasin_1,E4_Magasin_1,Manager,12:00,18:00
+2024-01-03,Magasin_2,E1_Magasin_2,Employé polyvalent,13:00,19:00
+2024-01-03,Magasin_2,E2_Magasin_2,Employé polyvalent,7:00,13:00
+2024-01-03,Magasin_2,E3_Magasin_2,Manager,10:00,17:00
+2024-01-03,Magasin_2,E4_Magasin_2,Caissier,8:00,15:00
+2024-01-03,Magasin_3,E1_Magasin_3,Employé polyvalent,10:00,16:00
+2024-01-03,Magasin_3,E2_Magasin_3,Manager,10:00,17:00
+2024-01-03,Magasin_3,E3_Magasin_3,Caissier,9:00,17:00
+2024-01-03,Magasin_3,E4_Magasin_3,Caissier,6:00,13:00
+2024-01-03,Magasin_4,E1_Magasin_4,Manager,12:00,18:00
+2024-01-03,Magasin_4,E2_Magasin_4,Employé polyvalent,6:00,14:00
+2024-01-03,Magasin_4,E3_Magasin_4,Employé polyvalent,7:00,15:00
+2024-01-03,Magasin_4,E4_Magasin_4,Caissier,7:00,15:00
+2024-01-03,Magasin_5,E1_Magasin_5,Employé polyvalent,6:00,14:00
+2024-01-03,Magasin_5,E2_Magasin_5,Manager,13:00,21:00
+2024-01-03,Magasin_5,E3_Magasin_5,Caissier,12:00,18:00
+2024-01-03,Magasin_5,E4_Magasin_5,Caissier,10:00,18:00
+2024-01-04,Magasin_1,E1_Magasin_1,Caissier,11:00,18:00
+2024-01-04,Magasin_1,E2_Magasin_1,Manager,6:00,14:00
+2024-01-04,Magasin_1,E3_Magasin_1,Manager,13:00,19:00
+2024-01-04,Magasin_1,E4_Magasin_1,Caissier,13:00,19:00
+2024-01-04,Magasin_2,E1_Magasin_2,Caissier,11:00,18:00
+2024-01-04,Magasin_2,E2_Magasin_2,Caissier,8:00,14:00
+2024-01-04,Magasin_2,E3_Magasin_2,Caissier,7:00,15:00
+2024-01-04,Magasin_2,E4_Magasin_2,Caissier,9:00,16:00
+2024-01-04,Magasin_3,E1_Magasin_3,Manager,11:00,17:00
+2024-01-04,Magasin_3,E2_Magasin_3,Manager,9:00,15:00
+2024-01-04,Magasin_3,E3_Magasin_3,Employé polyvalent,6:00,14:00
+2024-01-04,Magasin_3,E4_Magasin_3,Employé polyvalent,13:00,19:00
+2024-01-04,Magasin_4,E1_Magasin_4,Manager,10:00,17:00
+2024-01-04,Magasin_4,E2_Magasin_4,Manager,10:00,17:00
+2024-01-04,Magasin_4,E3_Magasin_4,Caissier,9:00,15:00
+2024-01-04,Magasin_4,E4_Magasin_4,Employé polyvalent,7:00,15:00
+2024-01-04,Magasin_5,E1_Magasin_5,Employé polyvalent,7:00,13:00
+2024-01-04,Magasin_5,E2_Magasin_5,Caissier,8:00,15:00
+2024-01-04,Magasin_5,E3_Magasin_5,Employé polyvalent,8:00,16:00
+2024-01-04,Magasin_5,E4_Magasin_5,Employé polyvalent,12:00,19:00
+2024-01-05,Magasin_1,E1_Magasin_1,Employé polyvalent,7:00,13:00
+2024-01-05,Magasin_1,E2_Magasin_1,Employé polyvalent,6:00,14:00
+2024-01-05,Magasin_1,E3_Magasin_1,Manager,9:00,16:00
+2024-01-05,Magasin_1,E4_Magasin_1,Employé polyvalent,7:00,13:00
+2024-01-05,Magasin_2,E1_Magasin_2,Manager,11:00,17:00
+2024-01-05,Magasin_2,E2_Magasin_2,Caissier,7:00,15:00
+2024-01-05,Magasin_2,E3_Magasin_2,Caissier,9:00,15:00
+2024-01-05,Magasin_2,E4_Magasin_2,Caissier,6:00,14:00
+2024-01-05,Magasin_3,E1_Magasin_3,Employé polyvalent,8:00,14:00
+2024-01-05,Magasin_3,E2_Magasin_3,Employé polyvalent,7:00,15:00
+2024-01-05,Magasin_3,E3_Magasin_3,Manager,11:00,18:00
+2024-01-05,Magasin_3,E4_Magasin_3,Employé polyvalent,9:00,17:00
+2024-01-05,Magasin_4,E1_Magasin_4,Employé polyvalent,13:00,20:00
+2024-01-05,Magasin_4,E2_Magasin_4,Manager,12:00,18:00
+2024-01-05,Magasin_4,E3_Magasin_4,Manager,13:00,19:00
+2024-01-05,Magasin_4,E4_Magasin_4,Caissier,8:00,16:00
+2024-01-05,Magasin_5,E1_Magasin_5,Manager,9:00,16:00
+2024-01-05,Magasin_5,E2_Magasin_5,Manager,6:00,13:00
+2024-01-05,Magasin_5,E3_Magasin_5,Employé polyvalent,9:00,15:00
+2024-01-05,Magasin_5,E4_Magasin_5,Caissier,6:00,13:00
+2024-01-06,Magasin_1,E1_Magasin_1,Employé polyvalent,12:00,20:00
+2024-01-06,Magasin_1,E2_Magasin_1,Caissier,12:00,19:00
+2024-01-06,Magasin_1,E3_Magasin_1,Caissier,6:00,14:00
+2024-01-06,Magasin_1,E4_Magasin_1,Employé polyvalent,12:00,19:00
+2024-01-06,Magasin_2,E1_Magasin_2,Manager,13:00,19:00
+2024-01-06,Magasin_2,E2_Magasin_2,Manager,6:00,14:00
+2024-01-06,Magasin_2,E3_Magasin_2,Manager,9:00,15:00
+2024-01-06,Magasin_2,E4_Magasin_2,Manager,10:00,17:00
+2024-01-06,Magasin_3,E1_Magasin_3,Employé polyvalent,11:00,19:00
+2024-01-06,Magasin_3,E2_Magasin_3,Caissier,10:00,17:00
+2024-01-06,Magasin_3,E3_Magasin_3,Caissier,8:00,14:00
+2024-01-06,Magasin_3,E4_Magasin_3,Employé polyvalent,10:00,16:00
+2024-01-06,Magasin_4,E1_Magasin_4,Employé polyvalent,7:00,15:00
+2024-01-06,Magasin_4,E2_Magasin_4,Employé polyvalent,8:00,14:00
+2024-01-06,Magasin_4,E3_Magasin_4,Employé polyvalent,7:00,14:00
+2024-01-06,Magasin_4,E4_Magasin_4,Caissier,12:00,20:00
+2024-01-06,Magasin_5,E1_Magasin_5,Employé polyvalent,8:00,16:00
+2024-01-06,Magasin_5,E2_Magasin_5,Manager,7:00,13:00
+2024-01-06,Magasin_5,E3_Magasin_5,Employé polyvalent,8:00,16:00
+2024-01-06,Magasin_5,E4_Magasin_5,Employé polyvalent,13:00,20:00
+2024-01-07,Magasin_1,E1_Magasin_1,Caissier,13:00,21:00
+2024-01-07,Magasin_1,E2_Magasin_1,Caissier,11:00,19:00
+2024-01-07,Magasin_1,E3_Magasin_1,Employé polyvalent,10:00,17:00
+2024-01-07,Magasin_1,E4_Magasin_1,Caissier,9:00,16:00
+2024-01-07,Magasin_2,E1_Magasin_2,Caissier,10:00,16:00
+2024-01-07,Magasin_2,E2_Magasin_2,Manager,11:00,19:00
+2024-01-07,Magasin_2,E3_Magasin_2,Manager,9:00,17:00
+2024-01-07,Magasin_2,E4_Magasin_2,Employé polyvalent,12:00,19:00
+2024-01-07,Magasin_3,E1_Magasin_3,Manager,12:00,18:00
+2024-01-07,Magasin_3,E2_Magasin_3,Caissier,12:00,19:00
+2024-01-07,Magasin_3,E3_Magasin_3,Employé polyvalent,10:00,16:00
+2024-01-07,Magasin_3,E4_Magasin_3,Employé polyvalent,10:00,17:00
+2024-01-07,Magasin_4,E1_Magasin_4,Manager,8:00,15:00
+2024-01-07,Magasin_4,E2_Magasin_4,Caissier,10:00,16:00
+2024-01-07,Magasin_4,E3_Magasin_4,Caissier,10:00,18:00
+2024-01-07,Magasin_4,E4_Magasin_4,Employé polyvalent,10:00,18:00
+2024-01-07,Magasin_5,E1_Magasin_5,Manager,9:00,16:00
+2024-01-07,Magasin_5,E2_Magasin_5,Employé polyvalent,8:00,16:00
+2024-01-07,Magasin_5,E3_Magasin_5,Manager,6:00,13:00
+2024-01-07,Magasin_5,E4_Magasin_5,Caissier,11:00,18:00
+2024-01-08,Magasin_1,E1_Magasin_1,Caissier,13:00,19:00
+2024-01-08,Magasin_1,E2_Magasin_1,Manager,11:00,18:00
+2024-01-08,Magasin_1,E3_Magasin_1,Manager,6:00,14:00
+2024-01-08,Magasin_1,E4_Magasin_1,Manager,6:00,14:00
+2024-01-08,Magasin_2,E1_Magasin_2,Employé polyvalent,12:00,19:00
+2024-01-08,Magasin_2,E2_Magasin_2,Manager,10:00,17:00
+2024-01-08,Magasin_2,E3_Magasin_2,Employé polyvalent,9:00,17:00
+2024-01-08,Magasin_2,E4_Magasin_2,Employé polyvalent,7:00,15:00
+2024-01-08,Magasin_3,E1_Magasin_3,Caissier,6:00,13:00
+2024-01-08,Magasin_3,E2_Magasin_3,Employé polyvalent,8:00,15:00
+2024-01-08,Magasin_3,E3_Magasin_3,Manager,12:00,19:00
+2024-01-08,Magasin_3,E4_Magasin_3,Manager,6:00,12:00
+2024-01-08,Magasin_4,E1_Magasin_4,Caissier,13:00,21:00
+2024-01-08,Magasin_4,E2_Magasin_4,Caissier,10:00,18:00
+2024-01-08,Magasin_4,E3_Magasin_4,Manager,9:00,17:00
+2024-01-08,Magasin_4,E4_Magasin_4,Employé polyvalent,11:00,19:00
+2024-01-08,Magasin_5,E1_Magasin_5,Manager,12:00,19:00
+2024-01-08,Magasin_5,E2_Magasin_5,Manager,12:00,19:00
+2024-01-08,Magasin_5,E3_Magasin_5,Employé polyvalent,8:00,15:00
+2024-01-08,Magasin_5,E4_Magasin_5,Caissier,10:00,17:00
+2024-01-09,Magasin_1,E1_Magasin_1,Employé polyvalent,10:00,18:00
+2024-01-09,Magasin_1,E2_Magasin_1,Employé polyvalent,11:00,17:00
+2024-01-09,Magasin_1,E3_Magasin_1,Employé polyvalent,10:00,17:00
+2024-01-09,Magasin_1,E4_Magasin_1,Caissier,10:00,17:00
+2024-01-09,Magasin_2,E1_Magasin_2,Manager,13:00,21:00
+2024-01-09,Magasin_2,E2_Magasin_2,Employé polyvalent,10:00,17:00
+2024-01-09,Magasin_2,E3_Magasin_2,Employé polyvalent,6:00,12:00
+2024-01-09,Magasin_2,E4_Magasin_2,Employé polyvalent,8:00,15:00
+2024-01-09,Magasin_3,E1_Magasin_3,Caissier,6:00,13:00
+2024-01-09,Magasin_3,E2_Magasin_3,Caissier,8:00,14:00
+2024-01-09,Magasin_3,E3_Magasin_3,Manager,6:00,13:00
+2024-01-09,Magasin_3,E4_Magasin_3,Employé polyvalent,10:00,17:00
+2024-01-09,Magasin_4,E1_Magasin_4,Caissier,9:00,15:00
+2024-01-09,Magasin_4,E2_Magasin_4,Employé polyvalent,7:00,14:00
+2024-01-09,Magasin_4,E3_Magasin_4,Manager,10:00,18:00
+2024-01-09,Magasin_4,E4_Magasin_4,Caissier,7:00,15:00
+2024-01-09,Magasin_5,E1_Magasin_5,Manager,12:00,18:00
+2024-01-09,Magasin_5,E2_Magasin_5,Manager,12:00,18:00
+2024-01-09,Magasin_5,E3_Magasin_5,Employé polyvalent,7:00,13:00
+2024-01-09,Magasin_5,E4_Magasin_5,Employé polyvalent,11:00,19:00
+2024-01-10,Magasin_1,E1_Magasin_1,Manager,8:00,16:00
+2024-01-10,Magasin_1,E2_Magasin_1,Employé polyvalent,6:00,13:00
+2024-01-10,Magasin_1,E3_Magasin_1,Caissier,13:00,21:00
+2024-01-10,Magasin_1,E4_Magasin_1,Manager,9:00,15:00
+2024-01-10,Magasin_2,E1_Magasin_2,Manager,7:00,15:00
+2024-01-10,Magasin_2,E2_Magasin_2,Caissier,12:00,19:00
+2024-01-10,Magasin_2,E3_Magasin_2,Employé polyvalent,9:00,16:00
+2024-01-10,Magasin_2,E4_Magasin_2,Caissier,11:00,17:00
+2024-01-10,Magasin_3,E1_Magasin_3,Caissier,6:00,12:00
+2024-01-10,Magasin_3,E2_Magasin_3,Employé polyvalent,9:00,16:00
+2024-01-10,Magasin_3,E3_Magasin_3,Employé polyvalent,8:00,14:00
+2024-01-10,Magasin_3,E4_Magasin_3,Caissier,9:00,15:00
+2024-01-10,Magasin_4,E1_Magasin_4,Employé polyvalent,13:00,20:00
+2024-01-10,Magasin_4,E2_Magasin_4,Employé polyvalent,8:00,16:00
+2024-01-10,Magasin_4,E3_Magasin_4,Manager,13:00,19:00
+2024-01-10,Magasin_4,E4_Magasin_4,Employé polyvalent,8:00,14:00
+2024-01-10,Magasin_5,E1_Magasin_5,Employé polyvalent,9:00,16:00
+2024-01-10,Magasin_5,E2_Magasin_5,Manager,8:00,14:00
+2024-01-10,Magasin_5,E3_Magasin_5,Employé polyvalent,6:00,13:00
+2024-01-10,Magasin_5,E4_Magasin_5,Employé polyvalent,9:00,17:00
+2024-01-11,Magasin_1,E1_Magasin_1,Caissier,11:00,17:00
+2024-01-11,Magasin_1,E2_Magasin_1,Employé polyvalent,7:00,15:00
+2024-01-11,Magasin_1,E3_Magasin_1,Caissier,10:00,17:00
+2024-01-11,Magasin_1,E4_Magasin_1,Employé polyvalent,12:00,19:00
+2024-01-11,Magasin_2,E1_Magasin_2,Employé polyvalent,6:00,12:00
+2024-01-11,Magasin_2,E2_Magasin_2,Manager,12:00,20:00
+2024-01-11,Magasin_2,E3_Magasin_2,Employé polyvalent,10:00,17:00
+2024-01-11,Magasin_2,E4_Magasin_2,Caissier,9:00,16:00
+2024-01-11,Magasin_3,E1_Magasin_3,Manager,8:00,16:00
+2024-01-11,Magasin_3,E2_Magasin_3,Manager,6:00,14:00
+2024-01-11,Magasin_3,E3_Magasin_3,Manager,13:00,21:00
+2024-01-11,Magasin_3,E4_Magasin_3,Employé polyvalent,7:00,13:00
+2024-01-11,Magasin_4,E1_Magasin_4,Employé polyvalent,12:00,19:00
+2024-01-11,Magasin_4,E2_Magasin_4,Manager,9:00,17:00
+2024-01-11,Magasin_4,E3_Magasin_4,Manager,11:00,17:00
+2024-01-11,Magasin_4,E4_Magasin_4,Manager,8:00,16:00
+2024-01-11,Magasin_5,E1_Magasin_5,Caissier,7:00,15:00
+2024-01-11,Magasin_5,E2_Magasin_5,Employé polyvalent,13:00,21:00
+2024-01-11,Magasin_5,E3_Magasin_5,Manager,6:00,14:00
+2024-01-11,Magasin_5,E4_Magasin_5,Employé polyvalent,7:00,13:00
+2024-01-12,Magasin_1,E1_Magasin_1,Manager,8:00,14:00
+2024-01-12,Magasin_1,E2_Magasin_1,Manager,6:00,14:00
+2024-01-12,Magasin_1,E3_Magasin_1,Caissier,6:00,12:00
+2024-01-12,Magasin_1,E4_Magasin_1,Manager,12:00,20:00
+2024-01-12,Magasin_2,E1_Magasin_2,Caissier,10:00,16:00
+2024-01-12,Magasin_2,E2_Magasin_2,Employé polyvalent,7:00,14:00
+2024-01-12,Magasin_2,E3_Magasin_2,Employé polyvalent,7:00,14:00
+2024-01-12,Magasin_2,E4_Magasin_2,Caissier,9:00,16:00
+2024-01-12,Magasin_3,E1_Magasin_3,Manager,8:00,14:00
+2024-01-12,Magasin_3,E2_Magasin_3,Employé polyvalent,9:00,17:00
+2024-01-12,Magasin_3,E3_Magasin_3,Employé polyvalent,11:00,18:00
+2024-01-12,Magasin_3,E4_Magasin_3,Caissier,6:00,12:00
+2024-01-12,Magasin_4,E1_Magasin_4,Employé polyvalent,13:00,20:00
+2024-01-12,Magasin_4,E2_Magasin_4,Employé polyvalent,11:00,19:00
+2024-01-12,Magasin_4,E3_Magasin_4,Caissier,10:00,18:00
+2024-01-12,Magasin_4,E4_Magasin_4,Caissier,7:00,13:00
+2024-01-12,Magasin_5,E1_Magasin_5,Manager,7:00,15:00
+2024-01-12,Magasin_5,E2_Magasin_5,Caissier,9:00,17:00
+2024-01-12,Magasin_5,E3_Magasin_5,Manager,12:00,19:00
+2024-01-12,Magasin_5,E4_Magasin_5,Employé polyvalent,7:00,15:00
+2024-01-13,Magasin_1,E1_Magasin_1,Caissier,12:00,20:00
+2024-01-13,Magasin_1,E2_Magasin_1,Employé polyvalent,6:00,14:00
+2024-01-13,Magasin_1,E3_Magasin_1,Employé polyvalent,10:00,18:00
+2024-01-13,Magasin_1,E4_Magasin_1,Caissier,7:00,15:00
+2024-01-13,Magasin_2,E1_Magasin_2,Manager,13:00,21:00
+2024-01-13,Magasin_2,E2_Magasin_2,Caissier,13:00,20:00
+2024-01-13,Magasin_2,E3_Magasin_2,Employé polyvalent,8:00,14:00
+2024-01-13,Magasin_2,E4_Magasin_2,Manager,13:00,21:00
+2024-01-13,Magasin_3,E1_Magasin_3,Caissier,9:00,16:00
+2024-01-13,Magasin_3,E2_Magasin_3,Employé polyvalent,11:00,19:00
+2024-01-13,Magasin_3,E3_Magasin_3,Employé polyvalent,9:00,17:00
+2024-01-13,Magasin_3,E4_Magasin_3,Caissier,12:00,18:00
+2024-01-13,Magasin_4,E1_Magasin_4,Employé polyvalent,6:00,12:00
+2024-01-13,Magasin_4,E2_Magasin_4,Caissier,12:00,19:00
+2024-01-13,Magasin_4,E3_Magasin_4,Employé polyvalent,6:00,13:00
+2024-01-13,Magasin_4,E4_Magasin_4,Employé polyvalent,10:00,18:00
+2024-01-13,Magasin_5,E1_Magasin_5,Manager,7:00,15:00
+2024-01-13,Magasin_5,E2_Magasin_5,Manager,8:00,16:00
+2024-01-13,Magasin_5,E3_Magasin_5,Employé polyvalent,9:00,17:00
+2024-01-13,Magasin_5,E4_Magasin_5,Caissier,6:00,13:00
+2024-01-14,Magasin_1,E1_Magasin_1,Employé polyvalent,13:00,19:00
+2024-01-14,Magasin_1,E2_Magasin_1,Caissier,8:00,16:00
+2024-01-14,Magasin_1,E3_Magasin_1,Manager,11:00,17:00
+2024-01-14,Magasin_1,E4_Magasin_1,Caissier,7:00,14:00
+2024-01-14,Magasin_2,E1_Magasin_2,Manager,12:00,18:00
+2024-01-14,Magasin_2,E2_Magasin_2,Manager,13:00,21:00
+2024-01-14,Magasin_2,E3_Magasin_2,Caissier,11:00,17:00
+2024-01-14,Magasin_2,E4_Magasin_2,Manager,12:00,19:00
+2024-01-14,Magasin_3,E1_Magasin_3,Employé polyvalent,13:00,20:00
+2024-01-14,Magasin_3,E2_Magasin_3,Caissier,12:00,19:00
+2024-01-14,Magasin_3,E3_Magasin_3,Caissier,12:00,19:00
+2024-01-14,Magasin_3,E4_Magasin_3,Manager,6:00,14:00
+2024-01-14,Magasin_4,E1_Magasin_4,Manager,9:00,16:00
+2024-01-14,Magasin_4,E2_Magasin_4,Manager,13:00,21:00
+2024-01-14,Magasin_4,E3_Magasin_4,Manager,12:00,19:00
+2024-01-14,Magasin_4,E4_Magasin_4,Employé polyvalent,10:00,16:00
+2024-01-14,Magasin_5,E1_Magasin_5,Caissier,13:00,21:00
+2024-01-14,Magasin_5,E2_Magasin_5,Employé polyvalent,11:00,19:00
+2024-01-14,Magasin_5,E3_Magasin_5,Manager,10:00,18:00
+2024-01-14,Magasin_5,E4_Magasin_5,Employé polyvalent,13:00,21:00
+2024-01-15,Magasin_1,E1_Magasin_1,Employé polyvalent,13:00,21:00
+2024-01-15,Magasin_1,E2_Magasin_1,Manager,6:00,12:00
+2024-01-15,Magasin_1,E3_Magasin_1,Employé polyvalent,7:00,13:00
+2024-01-15,Magasin_1,E4_Magasin_1,Employé polyvalent,11:00,19:00
+2024-01-15,Magasin_2,E1_Magasin_2,Manager,7:00,14:00
+2024-01-15,Magasin_2,E2_Magasin_2,Employé polyvalent,10:00,18:00
+2024-01-15,Magasin_2,E3_Magasin_2,Manager,12:00,18:00
+2024-01-15,Magasin_2,E4_Magasin_2,Caissier,8:00,15:00
+2024-01-15,Magasin_3,E1_Magasin_3,Manager,7:00,15:00
+2024-01-15,Magasin_3,E2_Magasin_3,Caissier,9:00,15:00
+2024-01-15,Magasin_3,E3_Magasin_3,Manager,12:00,18:00
+2024-01-15,Magasin_3,E4_Magasin_3,Caissier,10:00,16:00
+2024-01-15,Magasin_4,E1_Magasin_4,Manager,13:00,21:00
+2024-01-15,Magasin_4,E2_Magasin_4,Employé polyvalent,8:00,16:00
+2024-01-15,Magasin_4,E3_Magasin_4,Caissier,6:00,14:00
+2024-01-15,Magasin_4,E4_Magasin_4,Employé polyvalent,8:00,15:00
+2024-01-15,Magasin_5,E1_Magasin_5,Caissier,12:00,18:00
+2024-01-15,Magasin_5,E2_Magasin_5,Manager,8:00,16:00
+2024-01-15,Magasin_5,E3_Magasin_5,Manager,10:00,18:00
+2024-01-15,Magasin_5,E4_Magasin_5,Caissier,12:00,19:00
+2024-01-16,Magasin_1,E1_Magasin_1,Manager,10:00,18:00
+2024-01-16,Magasin_1,E2_Magasin_1,Employé polyvalent,8:00,15:00
+2024-01-16,Magasin_1,E3_Magasin_1,Employé polyvalent,10:00,18:00
+2024-01-16,Magasin_1,E4_Magasin_1,Manager,9:00,17:00
+2024-01-16,Magasin_2,E1_Magasin_2,Caissier,7:00,15:00
+2024-01-16,Magasin_2,E2_Magasin_2,Employé polyvalent,9:00,16:00
+2024-01-16,Magasin_2,E3_Magasin_2,Employé polyvalent,7:00,15:00
+2024-01-16,Magasin_2,E4_Magasin_2,Employé polyvalent,6:00,12:00
+2024-01-16,Magasin_3,E1_Magasin_3,Manager,11:00,17:00
+2024-01-16,Magasin_3,E2_Magasin_3,Employé polyvalent,10:00,18:00
+2024-01-16,Magasin_3,E3_Magasin_3,Caissier,12:00,19:00
+2024-01-16,Magasin_3,E4_Magasin_3,Employé polyvalent,11:00,17:00
+2024-01-16,Magasin_4,E1_Magasin_4,Manager,9:00,17:00
+2024-01-16,Magasin_4,E2_Magasin_4,Caissier,13:00,19:00
+2024-01-16,Magasin_4,E3_Magasin_4,Caissier,13:00,19:00
+2024-01-16,Magasin_4,E4_Magasin_4,Employé polyvalent,13:00,20:00
+2024-01-16,Magasin_5,E1_Magasin_5,Manager,8:00,15:00
+2024-01-16,Magasin_5,E2_Magasin_5,Manager,9:00,15:00
+2024-01-16,Magasin_5,E3_Magasin_5,Employé polyvalent,9:00,16:00
+2024-01-16,Magasin_5,E4_Magasin_5,Manager,7:00,15:00
+2024-01-17,Magasin_1,E1_Magasin_1,Caissier,7:00,14:00
+2024-01-17,Magasin_1,E2_Magasin_1,Caissier,8:00,16:00
+2024-01-17,Magasin_1,E3_Magasin_1,Manager,8:00,14:00
+2024-01-17,Magasin_1,E4_Magasin_1,Manager,8:00,16:00
+2024-01-17,Magasin_2,E1_Magasin_2,Employé polyvalent,6:00,14:00
+2024-01-17,Magasin_2,E2_Magasin_2,Caissier,9:00,16:00
+2024-01-17,Magasin_2,E3_Magasin_2,Employé polyvalent,11:00,19:00
+2024-01-17,Magasin_2,E4_Magasin_2,Caissier,8:00,15:00
+2024-01-17,Magasin_3,E1_Magasin_3,Manager,9:00,15:00
+2024-01-17,Magasin_3,E2_Magasin_3,Manager,8:00,15:00
+2024-01-17,Magasin_3,E3_Magasin_3,Manager,7:00,13:00
+2024-01-17,Magasin_3,E4_Magasin_3,Employé polyvalent,9:00,16:00
+2024-01-17,Magasin_4,E1_Magasin_4,Manager,8:00,14:00
+2024-01-17,Magasin_4,E2_Magasin_4,Manager,12:00,19:00
+2024-01-17,Magasin_4,E3_Magasin_4,Employé polyvalent,11:00,19:00
+2024-01-17,Magasin_4,E4_Magasin_4,Caissier,9:00,17:00
+2024-01-17,Magasin_5,E1_Magasin_5,Manager,6:00,14:00
+2024-01-17,Magasin_5,E2_Magasin_5,Manager,9:00,17:00
+2024-01-17,Magasin_5,E3_Magasin_5,Manager,6:00,14:00
+2024-01-17,Magasin_5,E4_Magasin_5,Caissier,12:00,18:00
+2024-01-18,Magasin_1,E1_Magasin_1,Manager,6:00,13:00
+2024-01-18,Magasin_1,E2_Magasin_1,Caissier,9:00,15:00
+2024-01-18,Magasin_1,E3_Magasin_1,Caissier,11:00,18:00
+2024-01-18,Magasin_1,E4_Magasin_1,Employé polyvalent,6:00,13:00
+2024-01-18,Magasin_2,E1_Magasin_2,Manager,13:00,20:00
+2024-01-18,Magasin_2,E2_Magasin_2,Caissier,7:00,13:00
+2024-01-18,Magasin_2,E3_Magasin_2,Caissier,13:00,20:00
+2024-01-18,Magasin_2,E4_Magasin_2,Manager,7:00,14:00
+2024-01-18,Magasin_3,E1_Magasin_3,Manager,13:00,19:00
+2024-01-18,Magasin_3,E2_Magasin_3,Employé polyvalent,10:00,17:00
+2024-01-18,Magasin_3,E3_Magasin_3,Manager,12:00,19:00
+2024-01-18,Magasin_3,E4_Magasin_3,Manager,11:00,18:00
+2024-01-18,Magasin_4,E1_Magasin_4,Caissier,9:00,16:00
+2024-01-18,Magasin_4,E2_Magasin_4,Caissier,6:00,12:00
+2024-01-18,Magasin_4,E3_Magasin_4,Caissier,12:00,20:00
+2024-01-18,Magasin_4,E4_Magasin_4,Caissier,9:00,17:00
+2024-01-18,Magasin_5,E1_Magasin_5,Manager,6:00,14:00
+2024-01-18,Magasin_5,E2_Magasin_5,Employé polyvalent,6:00,14:00
+2024-01-18,Magasin_5,E3_Magasin_5,Employé polyvalent,12:00,20:00
+2024-01-18,Magasin_5,E4_Magasin_5,Manager,12:00,20:00
+2024-01-19,Magasin_1,E1_Magasin_1,Caissier,12:00,18:00
+2024-01-19,Magasin_1,E2_Magasin_1,Caissier,7:00,15:00
+2024-01-19,Magasin_1,E3_Magasin_1,Manager,10:00,16:00
+2024-01-19,Magasin_1,E4_Magasin_1,Caissier,11:00,18:00
+2024-01-19,Magasin_2,E1_Magasin_2,Employé polyvalent,8:00,16:00
+2024-01-19,Magasin_2,E2_Magasin_2,Manager,12:00,20:00
+2024-01-19,Magasin_2,E3_Magasin_2,Caissier,12:00,19:00
+2024-01-19,Magasin_2,E4_Magasin_2,Caissier,12:00,19:00
+2024-01-19,Magasin_3,E1_Magasin_3,Employé polyvalent,6:00,12:00
+2024-01-19,Magasin_3,E2_Magasin_3,Manager,6:00,14:00
+2024-01-19,Magasin_3,E3_Magasin_3,Caissier,11:00,17:00
+2024-01-19,Magasin_3,E4_Magasin_3,Employé polyvalent,7:00,14:00
+2024-01-19,Magasin_4,E1_Magasin_4,Caissier,6:00,13:00
+2024-01-19,Magasin_4,E2_Magasin_4,Employé polyvalent,8:00,15:00
+2024-01-19,Magasin_4,E3_Magasin_4,Caissier,12:00,20:00
+2024-01-19,Magasin_4,E4_Magasin_4,Employé polyvalent,9:00,17:00
+2024-01-19,Magasin_5,E1_Magasin_5,Caissier,10:00,18:00
+2024-01-19,Magasin_5,E2_Magasin_5,Caissier,8:00,16:00
+2024-01-19,Magasin_5,E3_Magasin_5,Employé polyvalent,13:00,20:00
+2024-01-19,Magasin_5,E4_Magasin_5,Caissier,9:00,15:00
+2024-01-20,Magasin_1,E1_Magasin_1,Caissier,7:00,14:00
+2024-01-20,Magasin_1,E2_Magasin_1,Manager,12:00,19:00
+2024-01-20,Magasin_1,E3_Magasin_1,Employé polyvalent,11:00,17:00
+2024-01-20,Magasin_1,E4_Magasin_1,Manager,9:00,17:00
+2024-01-20,Magasin_2,E1_Magasin_2,Manager,10:00,18:00
+2024-01-20,Magasin_2,E2_Magasin_2,Caissier,11:00,19:00
+2024-01-20,Magasin_2,E3_Magasin_2,Caissier,10:00,18:00
+2024-01-20,Magasin_2,E4_Magasin_2,Caissier,12:00,19:00
+2024-01-20,Magasin_3,E1_Magasin_3,Employé polyvalent,9:00,16:00
+2024-01-20,Magasin_3,E2_Magasin_3,Employé polyvalent,10:00,18:00
+2024-01-20,Magasin_3,E3_Magasin_3,Caissier,8:00,16:00
+2024-01-20,Magasin_3,E4_Magasin_3,Manager,9:00,16:00
+2024-01-20,Magasin_4,E1_Magasin_4,Caissier,10:00,16:00
+2024-01-20,Magasin_4,E2_Magasin_4,Caissier,13:00,19:00
+2024-01-20,Magasin_4,E3_Magasin_4,Manager,6:00,14:00
+2024-01-20,Magasin_4,E4_Magasin_4,Caissier,13:00,19:00
+2024-01-20,Magasin_5,E1_Magasin_5,Manager,12:00,20:00
+2024-01-20,Magasin_5,E2_Magasin_5,Manager,12:00,20:00
+2024-01-20,Magasin_5,E3_Magasin_5,Employé polyvalent,11:00,18:00
+2024-01-20,Magasin_5,E4_Magasin_5,Employé polyvalent,10:00,17:00
+2024-01-21,Magasin_1,E1_Magasin_1,Manager,13:00,21:00
+2024-01-21,Magasin_1,E2_Magasin_1,Employé polyvalent,12:00,20:00
+2024-01-21,Magasin_1,E3_Magasin_1,Manager,12:00,19:00
+2024-01-21,Magasin_1,E4_Magasin_1,Manager,9:00,16:00
+2024-01-21,Magasin_2,E1_Magasin_2,Manager,10:00,16:00
+2024-01-21,Magasin_2,E2_Magasin_2,Caissier,12:00,19:00
+2024-01-21,Magasin_2,E3_Magasin_2,Caissier,8:00,16:00
+2024-01-21,Magasin_2,E4_Magasin_2,Manager,10:00,16:00
+2024-01-21,Magasin_3,E1_Magasin_3,Manager,11:00,18:00
+2024-01-21,Magasin_3,E2_Magasin_3,Employé polyvalent,8:00,14:00
+2024-01-21,Magasin_3,E3_Magasin_3,Employé polyvalent,9:00,17:00
+2024-01-21,Magasin_3,E4_Magasin_3,Employé polyvalent,12:00,20:00
+2024-01-21,Magasin_4,E1_Magasin_4,Employé polyvalent,8:00,14:00
+2024-01-21,Magasin_4,E2_Magasin_4,Caissier,6:00,13:00
+2024-01-21,Magasin_4,E3_Magasin_4,Caissier,13:00,21:00
+2024-01-21,Magasin_4,E4_Magasin_4,Manager,10:00,16:00
+2024-01-21,Magasin_5,E1_Magasin_5,Manager,7:00,14:00
+2024-01-21,Magasin_5,E2_Magasin_5,Manager,12:00,20:00
+2024-01-21,Magasin_5,E3_Magasin_5,Employé polyvalent,13:00,20:00
+2024-01-21,Magasin_5,E4_Magasin_5,Manager,6:00,14:00
+2024-01-22,Magasin_1,E1_Magasin_1,Employé polyvalent,8:00,15:00
+2024-01-22,Magasin_1,E2_Magasin_1,Employé polyvalent,13:00,19:00
+2024-01-22,Magasin_1,E3_Magasin_1,Employé polyvalent,7:00,15:00
+2024-01-22,Magasin_1,E4_Magasin_1,Employé polyvalent,7:00,14:00
+2024-01-22,Magasin_2,E1_Magasin_2,Employé polyvalent,11:00,18:00
+2024-01-22,Magasin_2,E2_Magasin_2,Manager,10:00,17:00
+2024-01-22,Magasin_2,E3_Magasin_2,Manager,12:00,18:00
+2024-01-22,Magasin_2,E4_Magasin_2,Caissier,11:00,18:00
+2024-01-22,Magasin_3,E1_Magasin_3,Caissier,10:00,17:00
+2024-01-22,Magasin_3,E2_Magasin_3,Employé polyvalent,12:00,20:00
+2024-01-22,Magasin_3,E3_Magasin_3,Manager,12:00,18:00
+2024-01-22,Magasin_3,E4_Magasin_3,Caissier,10:00,18:00
+2024-01-22,Magasin_4,E1_Magasin_4,Manager,6:00,13:00
+2024-01-22,Magasin_4,E2_Magasin_4,Employé polyvalent,7:00,15:00
+2024-01-22,Magasin_4,E3_Magasin_4,Employé polyvalent,6:00,14:00
+2024-01-22,Magasin_4,E4_Magasin_4,Employé polyvalent,13:00,20:00
+2024-01-22,Magasin_5,E1_Magasin_5,Employé polyvalent,11:00,19:00
+2024-01-22,Magasin_5,E2_Magasin_5,Caissier,11:00,18:00
+2024-01-22,Magasin_5,E3_Magasin_5,Manager,6:00,12:00
+2024-01-22,Magasin_5,E4_Magasin_5,Caissier,12:00,19:00
+2024-01-23,Magasin_1,E1_Magasin_1,Employé polyvalent,9:00,15:00
+2024-01-23,Magasin_1,E2_Magasin_1,Employé polyvalent,8:00,15:00
+2024-01-23,Magasin_1,E3_Magasin_1,Employé polyvalent,11:00,19:00
+2024-01-23,Magasin_1,E4_Magasin_1,Employé polyvalent,11:00,17:00
+2024-01-23,Magasin_2,E1_Magasin_2,Manager,13:00,19:00
+2024-01-23,Magasin_2,E2_Magasin_2,Manager,12:00,19:00
+2024-01-23,Magasin_2,E3_Magasin_2,Manager,11:00,17:00
+2024-01-23,Magasin_2,E4_Magasin_2,Employé polyvalent,13:00,19:00
+2024-01-23,Magasin_3,E1_Magasin_3,Manager,7:00,15:00
+2024-01-23,Magasin_3,E2_Magasin_3,Employé polyvalent,11:00,17:00
+2024-01-23,Magasin_3,E3_Magasin_3,Employé polyvalent,12:00,18:00
+2024-01-23,Magasin_3,E4_Magasin_3,Manager,7:00,14:00
+2024-01-23,Magasin_4,E1_Magasin_4,Employé polyvalent,10:00,16:00
+2024-01-23,Magasin_4,E2_Magasin_4,Employé polyvalent,12:00,18:00
+2024-01-23,Magasin_4,E3_Magasin_4,Caissier,10:00,17:00
+2024-01-23,Magasin_4,E4_Magasin_4,Manager,12:00,20:00
+2024-01-23,Magasin_5,E1_Magasin_5,Caissier,12:00,18:00
+2024-01-23,Magasin_5,E2_Magasin_5,Caissier,8:00,15:00
+2024-01-23,Magasin_5,E3_Magasin_5,Caissier,7:00,13:00
+2024-01-23,Magasin_5,E4_Magasin_5,Manager,13:00,19:00
+2024-01-24,Magasin_1,E1_Magasin_1,Caissier,12:00,18:00
+2024-01-24,Magasin_1,E2_Magasin_1,Manager,7:00,15:00
+2024-01-24,Magasin_1,E3_Magasin_1,Caissier,12:00,19:00
+2024-01-24,Magasin_1,E4_Magasin_1,Employé polyvalent,11:00,19:00
+2024-01-24,Magasin_2,E1_Magasin_2,Employé polyvalent,10:00,16:00
+2024-01-24,Magasin_2,E2_Magasin_2,Manager,11:00,17:00
+2024-01-24,Magasin_2,E3_Magasin_2,Manager,9:00,15:00
+2024-01-24,Magasin_2,E4_Magasin_2,Caissier,11:00,19:00
+2024-01-24,Magasin_3,E1_Magasin_3,Manager,8:00,15:00
+2024-01-24,Magasin_3,E2_Magasin_3,Manager,13:00,21:00
+2024-01-24,Magasin_3,E3_Magasin_3,Manager,7:00,13:00
+2024-01-24,Magasin_3,E4_Magasin_3,Employé polyvalent,8:00,16:00
+2024-01-24,Magasin_4,E1_Magasin_4,Employé polyvalent,11:00,17:00
+2024-01-24,Magasin_4,E2_Magasin_4,Manager,10:00,17:00
+2024-01-24,Magasin_4,E3_Magasin_4,Manager,6:00,14:00
+2024-01-24,Magasin_4,E4_Magasin_4,Manager,6:00,14:00
+2024-01-24,Magasin_5,E1_Magasin_5,Employé polyvalent,7:00,13:00
+2024-01-24,Magasin_5,E2_Magasin_5,Manager,9:00,15:00
+2024-01-24,Magasin_5,E3_Magasin_5,Caissier,11:00,18:00
+2024-01-24,Magasin_5,E4_Magasin_5,Employé polyvalent,12:00,20:00
+2024-01-25,Magasin_1,E1_Magasin_1,Manager,7:00,15:00
+2024-01-25,Magasin_1,E2_Magasin_1,Manager,6:00,12:00
+2024-01-25,Magasin_1,E3_Magasin_1,Caissier,9:00,15:00
+2024-01-25,Magasin_1,E4_Magasin_1,Employé polyvalent,6:00,14:00
+2024-01-25,Magasin_2,E1_Magasin_2,Caissier,7:00,14:00
+2024-01-25,Magasin_2,E2_Magasin_2,Caissier,13:00,20:00
+2024-01-25,Magasin_2,E3_Magasin_2,Employé polyvalent,12:00,18:00
+2024-01-25,Magasin_2,E4_Magasin_2,Employé polyvalent,10:00,17:00
+2024-01-25,Magasin_3,E1_Magasin_3,Caissier,7:00,14:00
+2024-01-25,Magasin_3,E2_Magasin_3,Manager,11:00,19:00
+2024-01-25,Magasin_3,E3_Magasin_3,Employé polyvalent,7:00,15:00
+2024-01-25,Magasin_3,E4_Magasin_3,Manager,7:00,15:00
+2024-01-25,Magasin_4,E1_Magasin_4,Manager,12:00,20:00
+2024-01-25,Magasin_4,E2_Magasin_4,Manager,8:00,15:00
+2024-01-25,Magasin_4,E3_Magasin_4,Employé polyvalent,9:00,17:00
+2024-01-25,Magasin_4,E4_Magasin_4,Employé polyvalent,12:00,19:00
+2024-01-25,Magasin_5,E1_Magasin_5,Employé polyvalent,9:00,16:00
+2024-01-25,Magasin_5,E2_Magasin_5,Caissier,13:00,19:00
+2024-01-25,Magasin_5,E3_Magasin_5,Manager,6:00,14:00
+2024-01-25,Magasin_5,E4_Magasin_5,Employé polyvalent,12:00,20:00
+2024-01-26,Magasin_1,E1_Magasin_1,Caissier,13:00,21:00
+2024-01-26,Magasin_1,E2_Magasin_1,Employé polyvalent,8:00,14:00
+2024-01-26,Magasin_1,E3_Magasin_1,Employé polyvalent,6:00,12:00
+2024-01-26,Magasin_1,E4_Magasin_1,Manager,13:00,19:00
+2024-01-26,Magasin_2,E1_Magasin_2,Employé polyvalent,8:00,15:00
+2024-01-26,Magasin_2,E2_Magasin_2,Caissier,11:00,18:00
+2024-01-26,Magasin_2,E3_Magasin_2,Caissier,10:00,17:00
+2024-01-26,Magasin_2,E4_Magasin_2,Employé polyvalent,10:00,18:00
+2024-01-26,Magasin_3,E1_Magasin_3,Caissier,6:00,13:00
+2024-01-26,Magasin_3,E2_Magasin_3,Employé polyvalent,7:00,14:00
+2024-01-26,Magasin_3,E3_Magasin_3,Employé polyvalent,10:00,16:00
+2024-01-26,Magasin_3,E4_Magasin_3,Employé polyvalent,10:00,18:00
+2024-01-26,Magasin_4,E1_Magasin_4,Manager,8:00,15:00
+2024-01-26,Magasin_4,E2_Magasin_4,Manager,6:00,12:00
+2024-01-26,Magasin_4,E3_Magasin_4,Employé polyvalent,9:00,15:00
+2024-01-26,Magasin_4,E4_Magasin_4,Employé polyvalent,9:00,15:00
+2024-01-26,Magasin_5,E1_Magasin_5,Caissier,10:00,16:00
+2024-01-26,Magasin_5,E2_Magasin_5,Caissier,13:00,21:00
+2024-01-26,Magasin_5,E3_Magasin_5,Manager,10:00,17:00
+2024-01-26,Magasin_5,E4_Magasin_5,Caissier,12:00,20:00
+2024-01-27,Magasin_1,E1_Magasin_1,Employé polyvalent,6:00,13:00
+2024-01-27,Magasin_1,E2_Magasin_1,Caissier,6:00,12:00
+2024-01-27,Magasin_1,E3_Magasin_1,Employé polyvalent,10:00,16:00
+2024-01-27,Magasin_1,E4_Magasin_1,Manager,8:00,14:00
+2024-01-27,Magasin_2,E1_Magasin_2,Employé polyvalent,12:00,20:00
+2024-01-27,Magasin_2,E2_Magasin_2,Manager,11:00,17:00
+2024-01-27,Magasin_2,E3_Magasin_2,Manager,8:00,16:00
+2024-01-27,Magasin_2,E4_Magasin_2,Manager,10:00,18:00
+2024-01-27,Magasin_3,E1_Magasin_3,Employé polyvalent,8:00,15:00
+2024-01-27,Magasin_3,E2_Magasin_3,Caissier,8:00,16:00
+2024-01-27,Magasin_3,E3_Magasin_3,Manager,11:00,17:00
+2024-01-27,Magasin_3,E4_Magasin_3,Employé polyvalent,12:00,20:00
+2024-01-27,Magasin_4,E1_Magasin_4,Caissier,12:00,18:00
+2024-01-27,Magasin_4,E2_Magasin_4,Caissier,6:00,14:00
+2024-01-27,Magasin_4,E3_Magasin_4,Employé polyvalent,7:00,13:00
+2024-01-27,Magasin_4,E4_Magasin_4,Caissier,9:00,17:00
+2024-01-27,Magasin_5,E1_Magasin_5,Employé polyvalent,6:00,14:00
+2024-01-27,Magasin_5,E2_Magasin_5,Employé polyvalent,6:00,13:00
+2024-01-27,Magasin_5,E3_Magasin_5,Caissier,7:00,15:00
+2024-01-27,Magasin_5,E4_Magasin_5,Caissier,11:00,18:00
+2024-01-28,Magasin_1,E1_Magasin_1,Caissier,8:00,16:00
+2024-01-28,Magasin_1,E2_Magasin_1,Manager,13:00,20:00
+2024-01-28,Magasin_1,E3_Magasin_1,Manager,8:00,15:00
+2024-01-28,Magasin_1,E4_Magasin_1,Manager,11:00,17:00
+2024-01-28,Magasin_2,E1_Magasin_2,Manager,12:00,18:00
+2024-01-28,Magasin_2,E2_Magasin_2,Employé polyvalent,12:00,20:00
+2024-01-28,Magasin_2,E3_Magasin_2,Manager,7:00,13:00
+2024-01-28,Magasin_2,E4_Magasin_2,Manager,7:00,13:00
+2024-01-28,Magasin_3,E1_Magasin_3,Employé polyvalent,7:00,14:00
+2024-01-28,Magasin_3,E2_Magasin_3,Employé polyvalent,8:00,15:00
+2024-01-28,Magasin_3,E3_Magasin_3,Manager,8:00,16:00
+2024-01-28,Magasin_3,E4_Magasin_3,Manager,6:00,13:00
+2024-01-28,Magasin_4,E1_Magasin_4,Caissier,13:00,20:00
+2024-01-28,Magasin_4,E2_Magasin_4,Caissier,8:00,15:00
+2024-01-28,Magasin_4,E3_Magasin_4,Manager,12:00,20:00
+2024-01-28,Magasin_4,E4_Magasin_4,Manager,12:00,18:00
+2024-01-28,Magasin_5,E1_Magasin_5,Manager,6:00,14:00
+2024-01-28,Magasin_5,E2_Magasin_5,Employé polyvalent,12:00,19:00
+2024-01-28,Magasin_5,E3_Magasin_5,Manager,7:00,13:00
+2024-01-28,Magasin_5,E4_Magasin_5,Employé polyvalent,6:00,14:00
+2024-01-29,Magasin_1,E1_Magasin_1,Employé polyvalent,13:00,19:00
+2024-01-29,Magasin_1,E2_Magasin_1,Manager,7:00,14:00
+2024-01-29,Magasin_1,E3_Magasin_1,Manager,10:00,18:00
+2024-01-29,Magasin_1,E4_Magasin_1,Caissier,8:00,14:00
+2024-01-29,Magasin_2,E1_Magasin_2,Employé polyvalent,11:00,17:00
+2024-01-29,Magasin_2,E2_Magasin_2,Manager,11:00,17:00
+2024-01-29,Magasin_2,E3_Magasin_2,Manager,6:00,12:00
+2024-01-29,Magasin_2,E4_Magasin_2,Manager,7:00,15:00
+2024-01-29,Magasin_3,E1_Magasin_3,Employé polyvalent,9:00,17:00
+2024-01-29,Magasin_3,E2_Magasin_3,Caissier,11:00,18:00
+2024-01-29,Magasin_3,E3_Magasin_3,Employé polyvalent,10:00,16:00
+2024-01-29,Magasin_3,E4_Magasin_3,Caissier,13:00,20:00
+2024-01-29,Magasin_4,E1_Magasin_4,Caissier,8:00,14:00
+2024-01-29,Magasin_4,E2_Magasin_4,Caissier,9:00,16:00
+2024-01-29,Magasin_4,E3_Magasin_4,Manager,12:00,19:00
+2024-01-29,Magasin_4,E4_Magasin_4,Caissier,10:00,18:00
+2024-01-29,Magasin_5,E1_Magasin_5,Caissier,12:00,20:00
+2024-01-29,Magasin_5,E2_Magasin_5,Caissier,11:00,19:00
+2024-01-29,Magasin_5,E3_Magasin_5,Employé polyvalent,7:00,15:00
+2024-01-29,Magasin_5,E4_Magasin_5,Caissier,10:00,17:00
+2024-01-30,Magasin_1,E1_Magasin_1,Caissier,6:00,13:00
+2024-01-30,Magasin_1,E2_Magasin_1,Manager,13:00,20:00
+2024-01-30,Magasin_1,E3_Magasin_1,Caissier,9:00,16:00
+2024-01-30,Magasin_1,E4_Magasin_1,Manager,13:00,20:00
+2024-01-30,Magasin_2,E1_Magasin_2,Caissier,8:00,15:00
+2024-01-30,Magasin_2,E2_Magasin_2,Manager,10:00,17:00
+2024-01-30,Magasin_2,E3_Magasin_2,Employé polyvalent,6:00,13:00
+2024-01-30,Magasin_2,E4_Magasin_2,Manager,13:00,20:00
+2024-01-30,Magasin_3,E1_Magasin_3,Manager,8:00,14:00
+2024-01-30,Magasin_3,E2_Magasin_3,Manager,10:00,18:00
+2024-01-30,Magasin_3,E3_Magasin_3,Employé polyvalent,9:00,16:00
+2024-01-30,Magasin_3,E4_Magasin_3,Caissier,7:00,15:00
+2024-01-30,Magasin_4,E1_Magasin_4,Caissier,9:00,15:00
+2024-01-30,Magasin_4,E2_Magasin_4,Employé polyvalent,12:00,18:00
+2024-01-30,Magasin_4,E3_Magasin_4,Caissier,11:00,17:00
+2024-01-30,Magasin_4,E4_Magasin_4,Employé polyvalent,9:00,17:00
+2024-01-30,Magasin_5,E1_Magasin_5,Caissier,12:00,20:00
+2024-01-30,Magasin_5,E2_Magasin_5,Employé polyvalent,10:00,17:00
+2024-01-30,Magasin_5,E3_Magasin_5,Employé polyvalent,7:00,13:00
+2024-01-30,Magasin_5,E4_Magasin_5,Caissier,12:00,18:00
+2024-01-31,Magasin_1,E1_Magasin_1,Employé polyvalent,13:00,21:00
+2024-01-31,Magasin_1,E2_Magasin_1,Manager,6:00,12:00
+2024-01-31,Magasin_1,E3_Magasin_1,Caissier,12:00,18:00
+2024-01-31,Magasin_1,E4_Magasin_1,Manager,12:00,18:00
+2024-01-31,Magasin_2,E1_Magasin_2,Caissier,11:00,18:00
+2024-01-31,Magasin_2,E2_Magasin_2,Caissier,13:00,21:00
+2024-01-31,Magasin_2,E3_Magasin_2,Manager,6:00,13:00
+2024-01-31,Magasin_2,E4_Magasin_2,Caissier,11:00,19:00
+2024-01-31,Magasin_3,E1_Magasin_3,Manager,11:00,19:00
+2024-01-31,Magasin_3,E2_Magasin_3,Caissier,10:00,16:00
+2024-01-31,Magasin_3,E3_Magasin_3,Employé polyvalent,7:00,13:00
+2024-01-31,Magasin_3,E4_Magasin_3,Employé polyvalent,9:00,15:00
+2024-01-31,Magasin_4,E1_Magasin_4,Employé polyvalent,12:00,18:00
+2024-01-31,Magasin_4,E2_Magasin_4,Caissier,10:00,16:00
+2024-01-31,Magasin_4,E3_Magasin_4,Caissier,13:00,20:00
+2024-01-31,Magasin_4,E4_Magasin_4,Employé polyvalent,11:00,18:00
+2024-01-31,Magasin_5,E1_Magasin_5,Manager,8:00,15:00
+2024-01-31,Magasin_5,E2_Magasin_5,Manager,8:00,16:00
+2024-01-31,Magasin_5,E3_Magasin_5,Manager,13:00,21:00
+2024-01-31,Magasin_5,E4_Magasin_5,Caissier,10:00,16:00
+2024-02-01,Magasin_1,E1_Magasin_1,Employé polyvalent,8:00,16:00
+2024-02-01,Magasin_1,E2_Magasin_1,Employé polyvalent,12:00,18:00
+2024-02-01,Magasin_1,E3_Magasin_1,Caissier,12:00,20:00
+2024-02-01,Magasin_1,E4_Magasin_1,Manager,11:00,17:00
+2024-02-01,Magasin_2,E1_Magasin_2,Caissier,9:00,17:00
+2024-02-01,Magasin_2,E2_Magasin_2,Manager,7:00,13:00
+2024-02-01,Magasin_2,E3_Magasin_2,Manager,11:00,19:00
+2024-02-01,Magasin_2,E4_Magasin_2,Caissier,9:00,17:00
+2024-02-01,Magasin_3,E1_Magasin_3,Manager,7:00,14:00
+2024-02-01,Magasin_3,E2_Magasin_3,Manager,6:00,14:00
+2024-02-01,Magasin_3,E3_Magasin_3,Caissier,12:00,19:00
+2024-02-01,Magasin_3,E4_Magasin_3,Caissier,7:00,15:00
+2024-02-01,Magasin_4,E1_Magasin_4,Caissier,10:00,18:00
+2024-02-01,Magasin_4,E2_Magasin_4,Employé polyvalent,13:00,20:00
+2024-02-01,Magasin_4,E3_Magasin_4,Caissier,10:00,18:00
+2024-02-01,Magasin_4,E4_Magasin_4,Employé polyvalent,10:00,16:00
+2024-02-01,Magasin_5,E1_Magasin_5,Employé polyvalent,7:00,15:00
+2024-02-01,Magasin_5,E2_Magasin_5,Caissier,9:00,17:00
+2024-02-01,Magasin_5,E3_Magasin_5,Caissier,11:00,19:00
+2024-02-01,Magasin_5,E4_Magasin_5,Employé polyvalent,10:00,17:00
+2024-02-02,Magasin_1,E1_Magasin_1,Manager,8:00,14:00
+2024-02-02,Magasin_1,E2_Magasin_1,Employé polyvalent,7:00,13:00
+2024-02-02,Magasin_1,E3_Magasin_1,Employé polyvalent,8:00,14:00
+2024-02-02,Magasin_1,E4_Magasin_1,Manager,12:00,20:00
+2024-02-02,Magasin_2,E1_Magasin_2,Caissier,7:00,15:00
+2024-02-02,Magasin_2,E2_Magasin_2,Caissier,8:00,15:00
+2024-02-02,Magasin_2,E3_Magasin_2,Employé polyvalent,6:00,13:00
+2024-02-02,Magasin_2,E4_Magasin_2,Caissier,12:00,18:00
+2024-02-02,Magasin_3,E1_Magasin_3,Employé polyvalent,11:00,17:00
+2024-02-02,Magasin_3,E2_Magasin_3,Caissier,10:00,16:00
+2024-02-02,Magasin_3,E3_Magasin_3,Employé polyvalent,12:00,18:00
+2024-02-02,Magasin_3,E4_Magasin_3,Manager,7:00,15:00
+2024-02-02,Magasin_4,E1_Magasin_4,Caissier,12:00,20:00
+2024-02-02,Magasin_4,E2_Magasin_4,Caissier,7:00,14:00
+2024-02-02,Magasin_4,E3_Magasin_4,Employé polyvalent,7:00,13:00
+2024-02-02,Magasin_4,E4_Magasin_4,Caissier,10:00,16:00
+2024-02-02,Magasin_5,E1_Magasin_5,Caissier,8:00,15:00
+2024-02-02,Magasin_5,E2_Magasin_5,Caissier,6:00,14:00
+2024-02-02,Magasin_5,E3_Magasin_5,Employé polyvalent,11:00,17:00
+2024-02-02,Magasin_5,E4_Magasin_5,Caissier,11:00,19:00
+2024-02-03,Magasin_1,E1_Magasin_1,Manager,10:00,18:00
+2024-02-03,Magasin_1,E2_Magasin_1,Caissier,10:00,17:00
+2024-02-03,Magasin_1,E3_Magasin_1,Employé polyvalent,9:00,15:00
+2024-02-03,Magasin_1,E4_Magasin_1,Manager,10:00,17:00
+2024-02-03,Magasin_2,E1_Magasin_2,Manager,11:00,17:00
+2024-02-03,Magasin_2,E2_Magasin_2,Employé polyvalent,9:00,16:00
+2024-02-03,Magasin_2,E3_Magasin_2,Manager,10:00,17:00
+2024-02-03,Magasin_2,E4_Magasin_2,Caissier,8:00,15:00
+2024-02-03,Magasin_3,E1_Magasin_3,Employé polyvalent,6:00,12:00
+2024-02-03,Magasin_3,E2_Magasin_3,Employé polyvalent,8:00,16:00
+2024-02-03,Magasin_3,E3_Magasin_3,Employé polyvalent,9:00,16:00
+2024-02-03,Magasin_3,E4_Magasin_3,Caissier,8:00,16:00
+2024-02-03,Magasin_4,E1_Magasin_4,Employé polyvalent,10:00,16:00
+2024-02-03,Magasin_4,E2_Magasin_4,Manager,11:00,18:00
+2024-02-03,Magasin_4,E3_Magasin_4,Caissier,8:00,15:00
+2024-02-03,Magasin_4,E4_Magasin_4,Manager,6:00,13:00
+2024-02-03,Magasin_5,E1_Magasin_5,Caissier,9:00,16:00
+2024-02-03,Magasin_5,E2_Magasin_5,Caissier,10:00,17:00
+2024-02-03,Magasin_5,E3_Magasin_5,Manager,10:00,17:00
+2024-02-03,Magasin_5,E4_Magasin_5,Manager,8:00,14:00
+2024-02-04,Magasin_1,E1_Magasin_1,Caissier,10:00,17:00
+2024-02-04,Magasin_1,E2_Magasin_1,Caissier,6:00,12:00
+2024-02-04,Magasin_1,E3_Magasin_1,Manager,9:00,17:00
+2024-02-04,Magasin_1,E4_Magasin_1,Manager,10:00,17:00
+2024-02-04,Magasin_2,E1_Magasin_2,Manager,13:00,21:00
+2024-02-04,Magasin_2,E2_Magasin_2,Manager,6:00,12:00
+2024-02-04,Magasin_2,E3_Magasin_2,Manager,12:00,20:00
+2024-02-04,Magasin_2,E4_Magasin_2,Caissier,10:00,16:00
+2024-02-04,Magasin_3,E1_Magasin_3,Employé polyvalent,7:00,14:00
+2024-02-04,Magasin_3,E2_Magasin_3,Manager,11:00,17:00
+2024-02-04,Magasin_3,E3_Magasin_3,Employé polyvalent,10:00,17:00
+2024-02-04,Magasin_3,E4_Magasin_3,Manager,7:00,13:00
+2024-02-04,Magasin_4,E1_Magasin_4,Employé polyvalent,13:00,19:00
+2024-02-04,Magasin_4,E2_Magasin_4,Manager,6:00,14:00
+2024-02-04,Magasin_4,E3_Magasin_4,Employé polyvalent,13:00,20:00
+2024-02-04,Magasin_4,E4_Magasin_4,Employé polyvalent,7:00,15:00
+2024-02-04,Magasin_5,E1_Magasin_5,Caissier,7:00,13:00
+2024-02-04,Magasin_5,E2_Magasin_5,Caissier,10:00,17:00
+2024-02-04,Magasin_5,E3_Magasin_5,Manager,10:00,18:00
+2024-02-04,Magasin_5,E4_Magasin_5,Employé polyvalent,8:00,16:00
+2024-02-05,Magasin_1,E1_Magasin_1,Manager,7:00,13:00
+2024-02-05,Magasin_1,E2_Magasin_1,Manager,9:00,17:00
+2024-02-05,Magasin_1,E3_Magasin_1,Manager,6:00,13:00
+2024-02-05,Magasin_1,E4_Magasin_1,Manager,11:00,19:00
+2024-02-05,Magasin_2,E1_Magasin_2,Caissier,12:00,20:00
+2024-02-05,Magasin_2,E2_Magasin_2,Employé polyvalent,10:00,16:00
+2024-02-05,Magasin_2,E3_Magasin_2,Caissier,8:00,14:00
+2024-02-05,Magasin_2,E4_Magasin_2,Manager,13:00,19:00
+2024-02-05,Magasin_3,E1_Magasin_3,Caissier,13:00,19:00
+2024-02-05,Magasin_3,E2_Magasin_3,Caissier,7:00,14:00
+2024-02-05,Magasin_3,E3_Magasin_3,Caissier,12:00,20:00
+2024-02-05,Magasin_3,E4_Magasin_3,Manager,13:00,20:00
+2024-02-05,Magasin_4,E1_Magasin_4,Manager,10:00,17:00
+2024-02-05,Magasin_4,E2_Magasin_4,Employé polyvalent,7:00,14:00
+2024-02-05,Magasin_4,E3_Magasin_4,Employé polyvalent,12:00,20:00
+2024-02-05,Magasin_4,E4_Magasin_4,Employé polyvalent,12:00,20:00
+2024-02-05,Magasin_5,E1_Magasin_5,Caissier,13:00,19:00
+2024-02-05,Magasin_5,E2_Magasin_5,Caissier,9:00,16:00
+2024-02-05,Magasin_5,E3_Magasin_5,Manager,6:00,14:00
+2024-02-05,Magasin_5,E4_Magasin_5,Caissier,10:00,17:00
+2024-02-06,Magasin_1,E1_Magasin_1,Manager,7:00,14:00
+2024-02-06,Magasin_1,E2_Magasin_1,Caissier,9:00,16:00
+2024-02-06,Magasin_1,E3_Magasin_1,Manager,13:00,19:00
+2024-02-06,Magasin_1,E4_Magasin_1,Employé polyvalent,11:00,17:00
+2024-02-06,Magasin_2,E1_Magasin_2,Manager,7:00,13:00
+2024-02-06,Magasin_2,E2_Magasin_2,Employé polyvalent,7:00,15:00
+2024-02-06,Magasin_2,E3_Magasin_2,Manager,11:00,18:00
+2024-02-06,Magasin_2,E4_Magasin_2,Manager,9:00,16:00
+2024-02-06,Magasin_3,E1_Magasin_3,Caissier,11:00,17:00
+2024-02-06,Magasin_3,E2_Magasin_3,Employé polyvalent,13:00,20:00
+2024-02-06,Magasin_3,E3_Magasin_3,Caissier,10:00,18:00
+2024-02-06,Magasin_3,E4_Magasin_3,Caissier,9:00,17:00
+2024-02-06,Magasin_4,E1_Magasin_4,Employé polyvalent,6:00,12:00
+2024-02-06,Magasin_4,E2_Magasin_4,Caissier,13:00,20:00
+2024-02-06,Magasin_4,E3_Magasin_4,Employé polyvalent,13:00,20:00
+2024-02-06,Magasin_4,E4_Magasin_4,Employé polyvalent,11:00,17:00
+2024-02-06,Magasin_5,E1_Magasin_5,Manager,6:00,12:00
+2024-02-06,Magasin_5,E2_Magasin_5,Caissier,7:00,14:00
+2024-02-06,Magasin_5,E3_Magasin_5,Manager,9:00,17:00
+2024-02-06,Magasin_5,E4_Magasin_5,Manager,8:00,15:00
+2024-02-07,Magasin_1,E1_Magasin_1,Manager,11:00,17:00
+2024-02-07,Magasin_1,E2_Magasin_1,Manager,6:00,14:00
+2024-02-07,Magasin_1,E3_Magasin_1,Manager,13:00,21:00
+2024-02-07,Magasin_1,E4_Magasin_1,Employé polyvalent,6:00,13:00
+2024-02-07,Magasin_2,E1_Magasin_2,Employé polyvalent,10:00,18:00
+2024-02-07,Magasin_2,E2_Magasin_2,Caissier,7:00,14:00
+2024-02-07,Magasin_2,E3_Magasin_2,Employé polyvalent,9:00,17:00
+2024-02-07,Magasin_2,E4_Magasin_2,Employé polyvalent,7:00,13:00
+2024-02-07,Magasin_3,E1_Magasin_3,Employé polyvalent,10:00,17:00
+2024-02-07,Magasin_3,E2_Magasin_3,Manager,9:00,16:00
+2024-02-07,Magasin_3,E3_Magasin_3,Employé polyvalent,13:00,21:00
+2024-02-07,Magasin_3,E4_Magasin_3,Caissier,13:00,19:00
+2024-02-07,Magasin_4,E1_Magasin_4,Caissier,13:00,20:00
+2024-02-07,Magasin_4,E2_Magasin_4,Manager,9:00,16:00
+2024-02-07,Magasin_4,E3_Magasin_4,Caissier,12:00,18:00
+2024-02-07,Magasin_4,E4_Magasin_4,Employé polyvalent,8:00,14:00
+2024-02-07,Magasin_5,E1_Magasin_5,Manager,13:00,19:00
+2024-02-07,Magasin_5,E2_Magasin_5,Employé polyvalent,7:00,13:00
+2024-02-07,Magasin_5,E3_Magasin_5,Manager,11:00,18:00
+2024-02-07,Magasin_5,E4_Magasin_5,Manager,7:00,13:00
+2024-02-08,Magasin_1,E1_Magasin_1,Employé polyvalent,10:00,16:00
+2024-02-08,Magasin_1,E2_Magasin_1,Manager,6:00,12:00
+2024-02-08,Magasin_1,E3_Magasin_1,Caissier,6:00,14:00
+2024-02-08,Magasin_1,E4_Magasin_1,Manager,9:00,17:00
+2024-02-08,Magasin_2,E1_Magasin_2,Caissier,7:00,13:00
+2024-02-08,Magasin_2,E2_Magasin_2,Employé polyvalent,8:00,14:00
+2024-02-08,Magasin_2,E3_Magasin_2,Caissier,10:00,18:00
+2024-02-08,Magasin_2,E4_Magasin_2,Manager,12:00,19:00
+2024-02-08,Magasin_3,E1_Magasin_3,Employé polyvalent,6:00,14:00
+2024-02-08,Magasin_3,E2_Magasin_3,Caissier,13:00,21:00
+2024-02-08,Magasin_3,E3_Magasin_3,Caissier,10:00,18:00
+2024-02-08,Magasin_3,E4_Magasin_3,Employé polyvalent,10:00,18:00
+2024-02-08,Magasin_4,E1_Magasin_4,Manager,8:00,15:00
+2024-02-08,Magasin_4,E2_Magasin_4,Caissier,11:00,19:00
+2024-02-08,Magasin_4,E3_Magasin_4,Manager,13:00,19:00
+2024-02-08,Magasin_4,E4_Magasin_4,Manager,11:00,18:00
+2024-02-08,Magasin_5,E1_Magasin_5,Caissier,13:00,19:00
+2024-02-08,Magasin_5,E2_Magasin_5,Manager,10:00,16:00
+2024-02-08,Magasin_5,E3_Magasin_5,Manager,7:00,15:00
+2024-02-08,Magasin_5,E4_Magasin_5,Manager,10:00,16:00
+2024-02-09,Magasin_1,E1_Magasin_1,Caissier,9:00,15:00
+2024-02-09,Magasin_1,E2_Magasin_1,Manager,10:00,17:00
+2024-02-09,Magasin_1,E3_Magasin_1,Manager,9:00,15:00
+2024-02-09,Magasin_1,E4_Magasin_1,Employé polyvalent,11:00,17:00
+2024-02-09,Magasin_2,E1_Magasin_2,Caissier,7:00,14:00
+2024-02-09,Magasin_2,E2_Magasin_2,Employé polyvalent,11:00,17:00
+2024-02-09,Magasin_2,E3_Magasin_2,Manager,8:00,14:00
+2024-02-09,Magasin_2,E4_Magasin_2,Employé polyvalent,8:00,15:00
+2024-02-09,Magasin_3,E1_Magasin_3,Employé polyvalent,9:00,15:00
+2024-02-09,Magasin_3,E2_Magasin_3,Caissier,9:00,16:00
+2024-02-09,Magasin_3,E3_Magasin_3,Employé polyvalent,13:00,21:00
+2024-02-09,Magasin_3,E4_Magasin_3,Caissier,6:00,13:00
+2024-02-09,Magasin_4,E1_Magasin_4,Manager,13:00,20:00
+2024-02-09,Magasin_4,E2_Magasin_4,Employé polyvalent,13:00,20:00
+2024-02-09,Magasin_4,E3_Magasin_4,Employé polyvalent,9:00,16:00
+2024-02-09,Magasin_4,E4_Magasin_4,Manager,10:00,16:00
+2024-02-09,Magasin_5,E1_Magasin_5,Manager,13:00,19:00
+2024-02-09,Magasin_5,E2_Magasin_5,Employé polyvalent,9:00,16:00
+2024-02-09,Magasin_5,E3_Magasin_5,Manager,9:00,17:00
+2024-02-09,Magasin_5,E4_Magasin_5,Manager,8:00,14:00
+2024-02-10,Magasin_1,E1_Magasin_1,Employé polyvalent,10:00,18:00
+2024-02-10,Magasin_1,E2_Magasin_1,Caissier,7:00,15:00
+2024-02-10,Magasin_1,E3_Magasin_1,Employé polyvalent,13:00,21:00
+2024-02-10,Magasin_1,E4_Magasin_1,Manager,13:00,21:00
+2024-02-10,Magasin_2,E1_Magasin_2,Manager,13:00,19:00
+2024-02-10,Magasin_2,E2_Magasin_2,Manager,9:00,16:00
+2024-02-10,Magasin_2,E3_Magasin_2,Employé polyvalent,13:00,19:00
+2024-02-10,Magasin_2,E4_Magasin_2,Employé polyvalent,8:00,15:00
+2024-02-10,Magasin_3,E1_Magasin_3,Employé polyvalent,9:00,17:00
+2024-02-10,Magasin_3,E2_Magasin_3,Caissier,7:00,15:00
+2024-02-10,Magasin_3,E3_Magasin_3,Employé polyvalent,11:00,17:00
+2024-02-10,Magasin_3,E4_Magasin_3,Employé polyvalent,6:00,14:00
+2024-02-10,Magasin_4,E1_Magasin_4,Manager,10:00,18:00
+2024-02-10,Magasin_4,E2_Magasin_4,Manager,10:00,16:00
+2024-02-10,Magasin_4,E3_Magasin_4,Manager,6:00,14:00
+2024-02-10,Magasin_4,E4_Magasin_4,Caissier,13:00,19:00
+2024-02-10,Magasin_5,E1_Magasin_5,Employé polyvalent,6:00,13:00
+2024-02-10,Magasin_5,E2_Magasin_5,Manager,12:00,19:00
+2024-02-10,Magasin_5,E3_Magasin_5,Caissier,7:00,15:00
+2024-02-10,Magasin_5,E4_Magasin_5,Employé polyvalent,10:00,16:00
+2024-02-11,Magasin_1,E1_Magasin_1,Manager,12:00,19:00
+2024-02-11,Magasin_1,E2_Magasin_1,Manager,10:00,18:00
+2024-02-11,Magasin_1,E3_Magasin_1,Employé polyvalent,6:00,13:00
+2024-02-11,Magasin_1,E4_Magasin_1,Caissier,6:00,12:00
+2024-02-11,Magasin_2,E1_Magasin_2,Manager,9:00,15:00
+2024-02-11,Magasin_2,E2_Magasin_2,Caissier,9:00,16:00
+2024-02-11,Magasin_2,E3_Magasin_2,Employé polyvalent,7:00,13:00
+2024-02-11,Magasin_2,E4_Magasin_2,Employé polyvalent,8:00,15:00
+2024-02-11,Magasin_3,E1_Magasin_3,Employé polyvalent,13:00,19:00
+2024-02-11,Magasin_3,E2_Magasin_3,Employé polyvalent,11:00,18:00
+2024-02-11,Magasin_3,E3_Magasin_3,Manager,9:00,15:00
+2024-02-11,Magasin_3,E4_Magasin_3,Caissier,6:00,14:00
+2024-02-11,Magasin_4,E1_Magasin_4,Caissier,7:00,13:00
+2024-02-11,Magasin_4,E2_Magasin_4,Employé polyvalent,6:00,14:00
+2024-02-11,Magasin_4,E3_Magasin_4,Manager,11:00,19:00
+2024-02-11,Magasin_4,E4_Magasin_4,Manager,12:00,19:00
+2024-02-11,Magasin_5,E1_Magasin_5,Caissier,9:00,16:00
+2024-02-11,Magasin_5,E2_Magasin_5,Employé polyvalent,12:00,18:00
+2024-02-11,Magasin_5,E3_Magasin_5,Caissier,6:00,13:00
+2024-02-11,Magasin_5,E4_Magasin_5,Employé polyvalent,11:00,17:00
+2024-02-12,Magasin_1,E1_Magasin_1,Employé polyvalent,12:00,20:00
+2024-02-12,Magasin_1,E2_Magasin_1,Manager,7:00,14:00
+2024-02-12,Magasin_1,E3_Magasin_1,Employé polyvalent,11:00,19:00
+2024-02-12,Magasin_1,E4_Magasin_1,Manager,12:00,19:00
+2024-02-12,Magasin_2,E1_Magasin_2,Manager,8:00,14:00
+2024-02-12,Magasin_2,E2_Magasin_2,Employé polyvalent,7:00,14:00
+2024-02-12,Magasin_2,E3_Magasin_2,Manager,8:00,15:00
+2024-02-12,Magasin_2,E4_Magasin_2,Manager,13:00,20:00
+2024-02-12,Magasin_3,E1_Magasin_3,Employé polyvalent,8:00,14:00
+2024-02-12,Magasin_3,E2_Magasin_3,Caissier,8:00,14:00
+2024-02-12,Magasin_3,E3_Magasin_3,Employé polyvalent,11:00,18:00
+2024-02-12,Magasin_3,E4_Magasin_3,Manager,10:00,17:00
+2024-02-12,Magasin_4,E1_Magasin_4,Caissier,10:00,16:00
+2024-02-12,Magasin_4,E2_Magasin_4,Caissier,9:00,15:00
+2024-02-12,Magasin_4,E3_Magasin_4,Manager,12:00,19:00
+2024-02-12,Magasin_4,E4_Magasin_4,Caissier,6:00,13:00
+2024-02-12,Magasin_5,E1_Magasin_5,Caissier,10:00,18:00
+2024-02-12,Magasin_5,E2_Magasin_5,Employé polyvalent,9:00,15:00
+2024-02-12,Magasin_5,E3_Magasin_5,Manager,9:00,17:00
+2024-02-12,Magasin_5,E4_Magasin_5,Caissier,13:00,21:00
+2024-02-13,Magasin_1,E1_Magasin_1,Caissier,9:00,16:00
+2024-02-13,Magasin_1,E2_Magasin_1,Manager,13:00,21:00
+2024-02-13,Magasin_1,E3_Magasin_1,Employé polyvalent,13:00,21:00
+2024-02-13,Magasin_1,E4_Magasin_1,Employé polyvalent,7:00,13:00
+2024-02-13,Magasin_2,E1_Magasin_2,Manager,7:00,15:00
+2024-02-13,Magasin_2,E2_Magasin_2,Employé polyvalent,13:00,20:00
+2024-02-13,Magasin_2,E3_Magasin_2,Employé polyvalent,9:00,17:00
+2024-02-13,Magasin_2,E4_Magasin_2,Manager,13:00,21:00
+2024-02-13,Magasin_3,E1_Magasin_3,Manager,12:00,20:00
+2024-02-13,Magasin_3,E2_Magasin_3,Employé polyvalent,13:00,19:00
+2024-02-13,Magasin_3,E3_Magasin_3,Caissier,9:00,17:00
+2024-02-13,Magasin_3,E4_Magasin_3,Manager,6:00,14:00
+2024-02-13,Magasin_4,E1_Magasin_4,Caissier,6:00,13:00
+2024-02-13,Magasin_4,E2_Magasin_4,Manager,8:00,16:00
+2024-02-13,Magasin_4,E3_Magasin_4,Manager,9:00,17:00
+2024-02-13,Magasin_4,E4_Magasin_4,Caissier,11:00,19:00
+2024-02-13,Magasin_5,E1_Magasin_5,Manager,6:00,14:00
+2024-02-13,Magasin_5,E2_Magasin_5,Manager,13:00,19:00
+2024-02-13,Magasin_5,E3_Magasin_5,Caissier,11:00,17:00
+2024-02-13,Magasin_5,E4_Magasin_5,Caissier,13:00,19:00
+2024-02-14,Magasin_1,E1_Magasin_1,Employé polyvalent,8:00,15:00
+2024-02-14,Magasin_1,E2_Magasin_1,Employé polyvalent,8:00,15:00
+2024-02-14,Magasin_1,E3_Magasin_1,Caissier,11:00,17:00
+2024-02-14,Magasin_1,E4_Magasin_1,Caissier,9:00,15:00
+2024-02-14,Magasin_2,E1_Magasin_2,Employé polyvalent,10:00,17:00
+2024-02-14,Magasin_2,E2_Magasin_2,Employé polyvalent,8:00,14:00
+2024-02-14,Magasin_2,E3_Magasin_2,Caissier,6:00,13:00
+2024-02-14,Magasin_2,E4_Magasin_2,Employé polyvalent,7:00,15:00
+2024-02-14,Magasin_3,E1_Magasin_3,Caissier,11:00,18:00
+2024-02-14,Magasin_3,E2_Magasin_3,Employé polyvalent,7:00,15:00
+2024-02-14,Magasin_3,E3_Magasin_3,Employé polyvalent,10:00,16:00
+2024-02-14,Magasin_3,E4_Magasin_3,Employé polyvalent,7:00,15:00
+2024-02-14,Magasin_4,E1_Magasin_4,Employé polyvalent,13:00,21:00
+2024-02-14,Magasin_4,E2_Magasin_4,Caissier,9:00,17:00
+2024-02-14,Magasin_4,E3_Magasin_4,Manager,12:00,18:00
+2024-02-14,Magasin_4,E4_Magasin_4,Manager,6:00,14:00
+2024-02-14,Magasin_5,E1_Magasin_5,Caissier,11:00,18:00
+2024-02-14,Magasin_5,E2_Magasin_5,Employé polyvalent,12:00,20:00
+2024-02-14,Magasin_5,E3_Magasin_5,Manager,13:00,20:00
+2024-02-14,Magasin_5,E4_Magasin_5,Caissier,12:00,20:00
+2024-02-15,Magasin_1,E1_Magasin_1,Manager,10:00,18:00
+2024-02-15,Magasin_1,E2_Magasin_1,Manager,10:00,17:00
+2024-02-15,Magasin_1,E3_Magasin_1,Caissier,12:00,19:00
+2024-02-15,Magasin_1,E4_Magasin_1,Caissier,11:00,18:00
+2024-02-15,Magasin_2,E1_Magasin_2,Employé polyvalent,11:00,19:00
+2024-02-15,Magasin_2,E2_Magasin_2,Manager,11:00,17:00
+2024-02-15,Magasin_2,E3_Magasin_2,Caissier,9:00,16:00
+2024-02-15,Magasin_2,E4_Magasin_2,Caissier,10:00,18:00
+2024-02-15,Magasin_3,E1_Magasin_3,Caissier,11:00,19:00
+2024-02-15,Magasin_3,E2_Magasin_3,Manager,7:00,15:00
+2024-02-15,Magasin_3,E3_Magasin_3,Caissier,8:00,15:00
+2024-02-15,Magasin_3,E4_Magasin_3,Employé polyvalent,11:00,18:00
+2024-02-15,Magasin_4,E1_Magasin_4,Employé polyvalent,6:00,14:00
+2024-02-15,Magasin_4,E2_Magasin_4,Employé polyvalent,8:00,14:00
+2024-02-15,Magasin_4,E3_Magasin_4,Manager,9:00,15:00
+2024-02-15,Magasin_4,E4_Magasin_4,Employé polyvalent,11:00,17:00
+2024-02-15,Magasin_5,E1_Magasin_5,Employé polyvalent,6:00,14:00
+2024-02-15,Magasin_5,E2_Magasin_5,Caissier,12:00,18:00
+2024-02-15,Magasin_5,E3_Magasin_5,Manager,6:00,14:00
+2024-02-15,Magasin_5,E4_Magasin_5,Employé polyvalent,10:00,17:00
+2024-02-16,Magasin_1,E1_Magasin_1,Manager,13:00,19:00
+2024-02-16,Magasin_1,E2_Magasin_1,Caissier,12:00,20:00
+2024-02-16,Magasin_1,E3_Magasin_1,Manager,7:00,14:00
+2024-02-16,Magasin_1,E4_Magasin_1,Caissier,9:00,17:00
+2024-02-16,Magasin_2,E1_Magasin_2,Employé polyvalent,10:00,17:00
+2024-02-16,Magasin_2,E2_Magasin_2,Employé polyvalent,6:00,13:00
+2024-02-16,Magasin_2,E3_Magasin_2,Caissier,10:00,17:00
+2024-02-16,Magasin_2,E4_Magasin_2,Caissier,8:00,14:00
+2024-02-16,Magasin_3,E1_Magasin_3,Employé polyvalent,9:00,15:00
+2024-02-16,Magasin_3,E2_Magasin_3,Manager,12:00,20:00
+2024-02-16,Magasin_3,E3_Magasin_3,Caissier,12:00,19:00
+2024-02-16,Magasin_3,E4_Magasin_3,Manager,8:00,16:00
+2024-02-16,Magasin_4,E1_Magasin_4,Employé polyvalent,11:00,17:00
+2024-02-16,Magasin_4,E2_Magasin_4,Caissier,7:00,14:00
+2024-02-16,Magasin_4,E3_Magasin_4,Manager,13:00,19:00
+2024-02-16,Magasin_4,E4_Magasin_4,Manager,12:00,18:00
+2024-02-16,Magasin_5,E1_Magasin_5,Caissier,13:00,21:00
+2024-02-16,Magasin_5,E2_Magasin_5,Caissier,11:00,19:00
+2024-02-16,Magasin_5,E3_Magasin_5,Caissier,6:00,13:00
+2024-02-16,Magasin_5,E4_Magasin_5,Employé polyvalent,6:00,13:00
+2024-02-17,Magasin_1,E1_Magasin_1,Employé polyvalent,9:00,15:00
+2024-02-17,Magasin_1,E2_Magasin_1,Manager,8:00,15:00
+2024-02-17,Magasin_1,E3_Magasin_1,Caissier,7:00,14:00
+2024-02-17,Magasin_1,E4_Magasin_1,Employé polyvalent,11:00,19:00
+2024-02-17,Magasin_2,E1_Magasin_2,Employé polyvalent,11:00,19:00
+2024-02-17,Magasin_2,E2_Magasin_2,Employé polyvalent,12:00,18:00
+2024-02-17,Magasin_2,E3_Magasin_2,Manager,10:00,17:00
+2024-02-17,Magasin_2,E4_Magasin_2,Manager,10:00,17:00
+2024-02-17,Magasin_3,E1_Magasin_3,Employé polyvalent,11:00,18:00
+2024-02-17,Magasin_3,E2_Magasin_3,Employé polyvalent,6:00,13:00
+2024-02-17,Magasin_3,E3_Magasin_3,Employé polyvalent,9:00,17:00
+2024-02-17,Magasin_3,E4_Magasin_3,Manager,13:00,21:00
+2024-02-17,Magasin_4,E1_Magasin_4,Caissier,8:00,16:00
+2024-02-17,Magasin_4,E2_Magasin_4,Caissier,6:00,14:00
+2024-02-17,Magasin_4,E3_Magasin_4,Employé polyvalent,11:00,17:00
+2024-02-17,Magasin_4,E4_Magasin_4,Manager,13:00,20:00
+2024-02-17,Magasin_5,E1_Magasin_5,Employé polyvalent,7:00,15:00
+2024-02-17,Magasin_5,E2_Magasin_5,Manager,13:00,19:00
+2024-02-17,Magasin_5,E3_Magasin_5,Employé polyvalent,9:00,15:00
+2024-02-17,Magasin_5,E4_Magasin_5,Caissier,9:00,17:00
+2024-02-18,Magasin_1,E1_Magasin_1,Employé polyvalent,6:00,14:00
+2024-02-18,Magasin_1,E2_Magasin_1,Manager,6:00,13:00
+2024-02-18,Magasin_1,E3_Magasin_1,Manager,13:00,20:00
+2024-02-18,Magasin_1,E4_Magasin_1,Caissier,8:00,16:00
+2024-02-18,Magasin_2,E1_Magasin_2,Manager,7:00,14:00
+2024-02-18,Magasin_2,E2_Magasin_2,Manager,12:00,20:00
+2024-02-18,Magasin_2,E3_Magasin_2,Manager,8:00,15:00
+2024-02-18,Magasin_2,E4_Magasin_2,Caissier,11:00,17:00
+2024-02-18,Magasin_3,E1_Magasin_3,Employé polyvalent,10:00,17:00
+2024-02-18,Magasin_3,E2_Magasin_3,Employé polyvalent,13:00,21:00
+2024-02-18,Magasin_3,E3_Magasin_3,Manager,13:00,20:00
+2024-02-18,Magasin_3,E4_Magasin_3,Manager,9:00,16:00
+2024-02-18,Magasin_4,E1_Magasin_4,Manager,8:00,16:00
+2024-02-18,Magasin_4,E2_Magasin_4,Caissier,7:00,13:00
+2024-02-18,Magasin_4,E3_Magasin_4,Manager,7:00,15:00
+2024-02-18,Magasin_4,E4_Magasin_4,Employé polyvalent,10:00,16:00
+2024-02-18,Magasin_5,E1_Magasin_5,Employé polyvalent,9:00,17:00
+2024-02-18,Magasin_5,E2_Magasin_5,Caissier,7:00,14:00
+2024-02-18,Magasin_5,E3_Magasin_5,Employé polyvalent,9:00,15:00
+2024-02-18,Magasin_5,E4_Magasin_5,Caissier,13:00,19:00
+2024-02-19,Magasin_1,E1_Magasin_1,Manager,7:00,15:00
+2024-02-19,Magasin_1,E2_Magasin_1,Employé polyvalent,13:00,21:00
+2024-02-19,Magasin_1,E3_Magasin_1,Manager,13:00,20:00
+2024-02-19,Magasin_1,E4_Magasin_1,Caissier,10:00,18:00
+2024-02-19,Magasin_2,E1_Magasin_2,Caissier,12:00,19:00
+2024-02-19,Magasin_2,E2_Magasin_2,Caissier,7:00,15:00
+2024-02-19,Magasin_2,E3_Magasin_2,Caissier,11:00,18:00
+2024-02-19,Magasin_2,E4_Magasin_2,Manager,13:00,21:00
+2024-02-19,Magasin_3,E1_Magasin_3,Employé polyvalent,7:00,15:00
+2024-02-19,Magasin_3,E2_Magasin_3,Caissier,6:00,14:00
+2024-02-19,Magasin_3,E3_Magasin_3,Manager,12:00,19:00
+2024-02-19,Magasin_3,E4_Magasin_3,Manager,13:00,19:00
+2024-02-19,Magasin_4,E1_Magasin_4,Employé polyvalent,11:00,19:00
+2024-02-19,Magasin_4,E2_Magasin_4,Manager,11:00,17:00
+2024-02-19,Magasin_4,E3_Magasin_4,Manager,9:00,16:00
+2024-02-19,Magasin_4,E4_Magasin_4,Employé polyvalent,7:00,15:00
+2024-02-19,Magasin_5,E1_Magasin_5,Manager,10:00,18:00
+2024-02-19,Magasin_5,E2_Magasin_5,Employé polyvalent,7:00,14:00
+2024-02-19,Magasin_5,E3_Magasin_5,Caissier,9:00,15:00
+2024-02-19,Magasin_5,E4_Magasin_5,Caissier,6:00,13:00
+2024-02-20,Magasin_1,E1_Magasin_1,Caissier,9:00,17:00
+2024-02-20,Magasin_1,E2_Magasin_1,Caissier,9:00,17:00
+2024-02-20,Magasin_1,E3_Magasin_1,Employé polyvalent,7:00,15:00
+2024-02-20,Magasin_1,E4_Magasin_1,Employé polyvalent,6:00,12:00
+2024-02-20,Magasin_2,E1_Magasin_2,Employé polyvalent,10:00,18:00
+2024-02-20,Magasin_2,E2_Magasin_2,Caissier,9:00,16:00
+2024-02-20,Magasin_2,E3_Magasin_2,Caissier,12:00,20:00
+2024-02-20,Magasin_2,E4_Magasin_2,Caissier,10:00,16:00
+2024-02-20,Magasin_3,E1_Magasin_3,Caissier,13:00,19:00
+2024-02-20,Magasin_3,E2_Magasin_3,Manager,6:00,12:00
+2024-02-20,Magasin_3,E3_Magasin_3,Manager,8:00,14:00
+2024-02-20,Magasin_3,E4_Magasin_3,Caissier,11:00,18:00
+2024-02-20,Magasin_4,E1_Magasin_4,Caissier,12:00,20:00
+2024-02-20,Magasin_4,E2_Magasin_4,Employé polyvalent,8:00,16:00
+2024-02-20,Magasin_4,E3_Magasin_4,Caissier,8:00,14:00
+2024-02-20,Magasin_4,E4_Magasin_4,Employé polyvalent,6:00,13:00
+2024-02-20,Magasin_5,E1_Magasin_5,Caissier,12:00,18:00
+2024-02-20,Magasin_5,E2_Magasin_5,Employé polyvalent,7:00,14:00
+2024-02-20,Magasin_5,E3_Magasin_5,Employé polyvalent,11:00,19:00
+2024-02-20,Magasin_5,E4_Magasin_5,Employé polyvalent,11:00,17:00
+2024-02-21,Magasin_1,E1_Magasin_1,Manager,10:00,17:00
+2024-02-21,Magasin_1,E2_Magasin_1,Caissier,13:00,19:00
+2024-02-21,Magasin_1,E3_Magasin_1,Caissier,9:00,16:00
+2024-02-21,Magasin_1,E4_Magasin_1,Manager,6:00,14:00
+2024-02-21,Magasin_2,E1_Magasin_2,Manager,9:00,15:00
+2024-02-21,Magasin_2,E2_Magasin_2,Manager,10:00,18:00
+2024-02-21,Magasin_2,E3_Magasin_2,Manager,11:00,18:00
+2024-02-21,Magasin_2,E4_Magasin_2,Caissier,10:00,18:00
+2024-02-21,Magasin_3,E1_Magasin_3,Caissier,12:00,18:00
+2024-02-21,Magasin_3,E2_Magasin_3,Manager,13:00,20:00
+2024-02-21,Magasin_3,E3_Magasin_3,Manager,11:00,19:00
+2024-02-21,Magasin_3,E4_Magasin_3,Manager,6:00,14:00
+2024-02-21,Magasin_4,E1_Magasin_4,Caissier,10:00,18:00
+2024-02-21,Magasin_4,E2_Magasin_4,Employé polyvalent,9:00,15:00
+2024-02-21,Magasin_4,E3_Magasin_4,Caissier,9:00,17:00
+2024-02-21,Magasin_4,E4_Magasin_4,Caissier,9:00,17:00
+2024-02-21,Magasin_5,E1_Magasin_5,Manager,7:00,14:00
+2024-02-21,Magasin_5,E2_Magasin_5,Manager,6:00,13:00
+2024-02-21,Magasin_5,E3_Magasin_5,Employé polyvalent,10:00,18:00
+2024-02-21,Magasin_5,E4_Magasin_5,Caissier,11:00,19:00
+2024-02-22,Magasin_1,E1_Magasin_1,Caissier,13:00,19:00
+2024-02-22,Magasin_1,E2_Magasin_1,Manager,6:00,14:00
+2024-02-22,Magasin_1,E3_Magasin_1,Employé polyvalent,12:00,18:00
+2024-02-22,Magasin_1,E4_Magasin_1,Employé polyvalent,12:00,18:00
+2024-02-22,Magasin_2,E1_Magasin_2,Caissier,9:00,16:00
+2024-02-22,Magasin_2,E2_Magasin_2,Caissier,6:00,13:00
+2024-02-22,Magasin_2,E3_Magasin_2,Manager,12:00,18:00
+2024-02-22,Magasin_2,E4_Magasin_2,Caissier,7:00,14:00
+2024-02-22,Magasin_3,E1_Magasin_3,Employé polyvalent,13:00,21:00
+2024-02-22,Magasin_3,E2_Magasin_3,Employé polyvalent,13:00,19:00
+2024-02-22,Magasin_3,E3_Magasin_3,Caissier,7:00,15:00
+2024-02-22,Magasin_3,E4_Magasin_3,Caissier,13:00,19:00
+2024-02-22,Magasin_4,E1_Magasin_4,Manager,7:00,14:00
+2024-02-22,Magasin_4,E2_Magasin_4,Employé polyvalent,9:00,17:00
+2024-02-22,Magasin_4,E3_Magasin_4,Employé polyvalent,12:00,19:00
+2024-02-22,Magasin_4,E4_Magasin_4,Manager,8:00,14:00
+2024-02-22,Magasin_5,E1_Magasin_5,Manager,8:00,15:00
+2024-02-22,Magasin_5,E2_Magasin_5,Caissier,11:00,19:00
+2024-02-22,Magasin_5,E3_Magasin_5,Employé polyvalent,11:00,18:00
+2024-02-22,Magasin_5,E4_Magasin_5,Manager,9:00,16:00
+2024-02-23,Magasin_1,E1_Magasin_1,Manager,7:00,15:00
+2024-02-23,Magasin_1,E2_Magasin_1,Caissier,8:00,16:00
+2024-02-23,Magasin_1,E3_Magasin_1,Employé polyvalent,9:00,16:00
+2024-02-23,Magasin_1,E4_Magasin_1,Caissier,10:00,17:00
+2024-02-23,Magasin_2,E1_Magasin_2,Caissier,13:00,19:00
+2024-02-23,Magasin_2,E2_Magasin_2,Employé polyvalent,11:00,19:00
+2024-02-23,Magasin_2,E3_Magasin_2,Caissier,10:00,17:00
+2024-02-23,Magasin_2,E4_Magasin_2,Employé polyvalent,11:00,19:00
+2024-02-23,Magasin_3,E1_Magasin_3,Employé polyvalent,6:00,13:00
+2024-02-23,Magasin_3,E2_Magasin_3,Manager,9:00,15:00
+2024-02-23,Magasin_3,E3_Magasin_3,Caissier,9:00,17:00
+2024-02-23,Magasin_3,E4_Magasin_3,Caissier,12:00,19:00
+2024-02-23,Magasin_4,E1_Magasin_4,Employé polyvalent,9:00,16:00
+2024-02-23,Magasin_4,E2_Magasin_4,Caissier,12:00,20:00
+2024-02-23,Magasin_4,E3_Magasin_4,Employé polyvalent,13:00,19:00
+2024-02-23,Magasin_4,E4_Magasin_4,Caissier,9:00,17:00
+2024-02-23,Magasin_5,E1_Magasin_5,Caissier,9:00,15:00
+2024-02-23,Magasin_5,E2_Magasin_5,Employé polyvalent,13:00,21:00
+2024-02-23,Magasin_5,E3_Magasin_5,Caissier,7:00,15:00
+2024-02-23,Magasin_5,E4_Magasin_5,Caissier,7:00,15:00
+2024-02-24,Magasin_1,E1_Magasin_1,Manager,6:00,13:00
+2024-02-24,Magasin_1,E2_Magasin_1,Employé polyvalent,13:00,20:00
+2024-02-24,Magasin_1,E3_Magasin_1,Caissier,11:00,17:00
+2024-02-24,Magasin_1,E4_Magasin_1,Employé polyvalent,11:00,17:00
+2024-02-24,Magasin_2,E1_Magasin_2,Employé polyvalent,13:00,20:00
+2024-02-24,Magasin_2,E2_Magasin_2,Employé polyvalent,7:00,14:00
+2024-02-24,Magasin_2,E3_Magasin_2,Caissier,10:00,18:00
+2024-02-24,Magasin_2,E4_Magasin_2,Employé polyvalent,12:00,19:00
+2024-02-24,Magasin_3,E1_Magasin_3,Employé polyvalent,8:00,15:00
+2024-02-24,Magasin_3,E2_Magasin_3,Caissier,6:00,13:00
+2024-02-24,Magasin_3,E3_Magasin_3,Manager,12:00,18:00
+2024-02-24,Magasin_3,E4_Magasin_3,Manager,11:00,18:00
+2024-02-24,Magasin_4,E1_Magasin_4,Caissier,12:00,20:00
+2024-02-24,Magasin_4,E2_Magasin_4,Caissier,11:00,18:00
+2024-02-24,Magasin_4,E3_Magasin_4,Manager,7:00,14:00
+2024-02-24,Magasin_4,E4_Magasin_4,Caissier,13:00,20:00
+2024-02-24,Magasin_5,E1_Magasin_5,Manager,6:00,14:00
+2024-02-24,Magasin_5,E2_Magasin_5,Employé polyvalent,8:00,14:00
+2024-02-24,Magasin_5,E3_Magasin_5,Caissier,8:00,14:00
+2024-02-24,Magasin_5,E4_Magasin_5,Manager,6:00,12:00
+2024-02-25,Magasin_1,E1_Magasin_1,Employé polyvalent,6:00,13:00
+2024-02-25,Magasin_1,E2_Magasin_1,Caissier,13:00,19:00
+2024-02-25,Magasin_1,E3_Magasin_1,Caissier,10:00,17:00
+2024-02-25,Magasin_1,E4_Magasin_1,Manager,9:00,15:00
+2024-02-25,Magasin_2,E1_Magasin_2,Employé polyvalent,12:00,18:00
+2024-02-25,Magasin_2,E2_Magasin_2,Employé polyvalent,9:00,15:00
+2024-02-25,Magasin_2,E3_Magasin_2,Employé polyvalent,11:00,18:00
+2024-02-25,Magasin_2,E4_Magasin_2,Manager,9:00,16:00
+2024-02-25,Magasin_3,E1_Magasin_3,Employé polyvalent,9:00,15:00
+2024-02-25,Magasin_3,E2_Magasin_3,Employé polyvalent,8:00,15:00
+2024-02-25,Magasin_3,E3_Magasin_3,Caissier,13:00,19:00
+2024-02-25,Magasin_3,E4_Magasin_3,Manager,13:00,19:00
+2024-02-25,Magasin_4,E1_Magasin_4,Manager,11:00,17:00
+2024-02-25,Magasin_4,E2_Magasin_4,Caissier,12:00,19:00
+2024-02-25,Magasin_4,E3_Magasin_4,Manager,7:00,15:00
+2024-02-25,Magasin_4,E4_Magasin_4,Caissier,9:00,16:00
+2024-02-25,Magasin_5,E1_Magasin_5,Manager,8:00,16:00
+2024-02-25,Magasin_5,E2_Magasin_5,Employé polyvalent,9:00,16:00
+2024-02-25,Magasin_5,E3_Magasin_5,Manager,7:00,13:00
+2024-02-25,Magasin_5,E4_Magasin_5,Manager,13:00,20:00
+2024-02-26,Magasin_1,E1_Magasin_1,Caissier,9:00,17:00
+2024-02-26,Magasin_1,E2_Magasin_1,Caissier,6:00,14:00
+2024-02-26,Magasin_1,E3_Magasin_1,Caissier,12:00,20:00
+2024-02-26,Magasin_1,E4_Magasin_1,Employé polyvalent,8:00,15:00
+2024-02-26,Magasin_2,E1_Magasin_2,Manager,7:00,14:00
+2024-02-26,Magasin_2,E2_Magasin_2,Manager,13:00,21:00
+2024-02-26,Magasin_2,E3_Magasin_2,Employé polyvalent,6:00,12:00
+2024-02-26,Magasin_2,E4_Magasin_2,Caissier,9:00,17:00
+2024-02-26,Magasin_3,E1_Magasin_3,Caissier,7:00,15:00
+2024-02-26,Magasin_3,E2_Magasin_3,Manager,8:00,15:00
+2024-02-26,Magasin_3,E3_Magasin_3,Employé polyvalent,6:00,14:00
+2024-02-26,Magasin_3,E4_Magasin_3,Caissier,11:00,18:00
+2024-02-26,Magasin_4,E1_Magasin_4,Employé polyvalent,10:00,16:00
+2024-02-26,Magasin_4,E2_Magasin_4,Employé polyvalent,10:00,16:00
+2024-02-26,Magasin_4,E3_Magasin_4,Employé polyvalent,12:00,20:00
+2024-02-26,Magasin_4,E4_Magasin_4,Caissier,13:00,21:00
+2024-02-26,Magasin_5,E1_Magasin_5,Caissier,13:00,20:00
+2024-02-26,Magasin_5,E2_Magasin_5,Manager,9:00,17:00
+2024-02-26,Magasin_5,E3_Magasin_5,Caissier,8:00,14:00
+2024-02-26,Magasin_5,E4_Magasin_5,Employé polyvalent,8:00,15:00
+2024-02-27,Magasin_1,E1_Magasin_1,Employé polyvalent,13:00,19:00
+2024-02-27,Magasin_1,E2_Magasin_1,Employé polyvalent,7:00,14:00
+2024-02-27,Magasin_1,E3_Magasin_1,Manager,10:00,18:00
+2024-02-27,Magasin_1,E4_Magasin_1,Employé polyvalent,9:00,17:00
+2024-02-27,Magasin_2,E1_Magasin_2,Employé polyvalent,10:00,18:00
+2024-02-27,Magasin_2,E2_Magasin_2,Manager,9:00,15:00
+2024-02-27,Magasin_2,E3_Magasin_2,Manager,13:00,21:00
+2024-02-27,Magasin_2,E4_Magasin_2,Employé polyvalent,8:00,15:00
+2024-02-27,Magasin_3,E1_Magasin_3,Manager,10:00,17:00
+2024-02-27,Magasin_3,E2_Magasin_3,Manager,9:00,17:00
+2024-02-27,Magasin_3,E3_Magasin_3,Employé polyvalent,11:00,18:00
+2024-02-27,Magasin_3,E4_Magasin_3,Employé polyvalent,7:00,13:00
+2024-02-27,Magasin_4,E1_Magasin_4,Caissier,12:00,20:00
+2024-02-27,Magasin_4,E2_Magasin_4,Manager,12:00,20:00
+2024-02-27,Magasin_4,E3_Magasin_4,Caissier,7:00,13:00
+2024-02-27,Magasin_4,E4_Magasin_4,Manager,8:00,14:00
+2024-02-27,Magasin_5,E1_Magasin_5,Caissier,10:00,16:00
+2024-02-27,Magasin_5,E2_Magasin_5,Caissier,6:00,13:00
+2024-02-27,Magasin_5,E3_Magasin_5,Employé polyvalent,13:00,20:00
+2024-02-27,Magasin_5,E4_Magasin_5,Employé polyvalent,9:00,15:00
+2024-02-28,Magasin_1,E1_Magasin_1,Caissier,11:00,17:00
+2024-02-28,Magasin_1,E2_Magasin_1,Employé polyvalent,13:00,19:00
+2024-02-28,Magasin_1,E3_Magasin_1,Employé polyvalent,6:00,13:00
+2024-02-28,Magasin_1,E4_Magasin_1,Employé polyvalent,8:00,16:00
+2024-02-28,Magasin_2,E1_Magasin_2,Employé polyvalent,6:00,14:00
+2024-02-28,Magasin_2,E2_Magasin_2,Manager,12:00,19:00
+2024-02-28,Magasin_2,E3_Magasin_2,Employé polyvalent,6:00,12:00
+2024-02-28,Magasin_2,E4_Magasin_2,Employé polyvalent,6:00,12:00
+2024-02-28,Magasin_3,E1_Magasin_3,Caissier,6:00,13:00
+2024-02-28,Magasin_3,E2_Magasin_3,Caissier,9:00,17:00
+2024-02-28,Magasin_3,E3_Magasin_3,Caissier,7:00,15:00
+2024-02-28,Magasin_3,E4_Magasin_3,Manager,12:00,20:00
+2024-02-28,Magasin_4,E1_Magasin_4,Caissier,11:00,18:00
+2024-02-28,Magasin_4,E2_Magasin_4,Manager,12:00,18:00
+2024-02-28,Magasin_4,E3_Magasin_4,Employé polyvalent,9:00,16:00
+2024-02-28,Magasin_4,E4_Magasin_4,Caissier,10:00,17:00
+2024-02-28,Magasin_5,E1_Magasin_5,Employé polyvalent,12:00,20:00
+2024-02-28,Magasin_5,E2_Magasin_5,Manager,10:00,17:00
+2024-02-28,Magasin_5,E3_Magasin_5,Caissier,13:00,20:00
+2024-02-28,Magasin_5,E4_Magasin_5,Employé polyvalent,8:00,16:00
+2024-02-29,Magasin_1,E1_Magasin_1,Employé polyvalent,11:00,17:00
+2024-02-29,Magasin_1,E2_Magasin_1,Manager,12:00,19:00
+2024-02-29,Magasin_1,E3_Magasin_1,Manager,9:00,15:00
+2024-02-29,Magasin_1,E4_Magasin_1,Employé polyvalent,10:00,16:00
+2024-02-29,Magasin_2,E1_Magasin_2,Caissier,9:00,15:00
+2024-02-29,Magasin_2,E2_Magasin_2,Caissier,9:00,16:00
+2024-02-29,Magasin_2,E3_Magasin_2,Employé polyvalent,7:00,15:00
+2024-02-29,Magasin_2,E4_Magasin_2,Employé polyvalent,7:00,14:00
+2024-02-29,Magasin_3,E1_Magasin_3,Manager,10:00,18:00
+2024-02-29,Magasin_3,E2_Magasin_3,Caissier,8:00,15:00
+2024-02-29,Magasin_3,E3_Magasin_3,Employé polyvalent,8:00,16:00
+2024-02-29,Magasin_3,E4_Magasin_3,Employé polyvalent,12:00,19:00
+2024-02-29,Magasin_4,E1_Magasin_4,Employé polyvalent,12:00,18:00
+2024-02-29,Magasin_4,E2_Magasin_4,Employé polyvalent,12:00,18:00
+2024-02-29,Magasin_4,E3_Magasin_4,Caissier,13:00,19:00
+2024-02-29,Magasin_4,E4_Magasin_4,Manager,12:00,19:00
+2024-02-29,Magasin_5,E1_Magasin_5,Employé polyvalent,8:00,14:00
+2024-02-29,Magasin_5,E2_Magasin_5,Manager,8:00,15:00
+2024-02-29,Magasin_5,E3_Magasin_5,Employé polyvalent,13:00,20:00
+2024-02-29,Magasin_5,E4_Magasin_5,Caissier,11:00,19:00
+2024-03-01,Magasin_1,E1_Magasin_1,Employé polyvalent,7:00,15:00
+2024-03-01,Magasin_1,E2_Magasin_1,Employé polyvalent,9:00,15:00
+2024-03-01,Magasin_1,E3_Magasin_1,Manager,10:00,16:00
+2024-03-01,Magasin_1,E4_Magasin_1,Employé polyvalent,6:00,13:00
+2024-03-01,Magasin_2,E1_Magasin_2,Employé polyvalent,12:00,20:00
+2024-03-01,Magasin_2,E2_Magasin_2,Caissier,9:00,15:00
+2024-03-01,Magasin_2,E3_Magasin_2,Manager,11:00,17:00
+2024-03-01,Magasin_2,E4_Magasin_2,Employé polyvalent,6:00,12:00
+2024-03-01,Magasin_3,E1_Magasin_3,Employé polyvalent,12:00,18:00
+2024-03-01,Magasin_3,E2_Magasin_3,Employé polyvalent,8:00,14:00
+2024-03-01,Magasin_3,E3_Magasin_3,Employé polyvalent,13:00,21:00
+2024-03-01,Magasin_3,E4_Magasin_3,Caissier,13:00,20:00
+2024-03-01,Magasin_4,E1_Magasin_4,Caissier,12:00,20:00
+2024-03-01,Magasin_4,E2_Magasin_4,Employé polyvalent,10:00,16:00
+2024-03-01,Magasin_4,E3_Magasin_4,Employé polyvalent,9:00,15:00
+2024-03-01,Magasin_4,E4_Magasin_4,Manager,7:00,13:00
+2024-03-01,Magasin_5,E1_Magasin_5,Employé polyvalent,11:00,18:00
+2024-03-01,Magasin_5,E2_Magasin_5,Manager,7:00,14:00
+2024-03-01,Magasin_5,E3_Magasin_5,Caissier,7:00,15:00
+2024-03-01,Magasin_5,E4_Magasin_5,Caissier,7:00,15:00
+2024-03-02,Magasin_1,E1_Magasin_1,Employé polyvalent,9:00,16:00
+2024-03-02,Magasin_1,E2_Magasin_1,Manager,6:00,12:00
+2024-03-02,Magasin_1,E3_Magasin_1,Caissier,10:00,18:00
+2024-03-02,Magasin_1,E4_Magasin_1,Manager,11:00,18:00
+2024-03-02,Magasin_2,E1_Magasin_2,Manager,6:00,14:00
+2024-03-02,Magasin_2,E2_Magasin_2,Manager,8:00,16:00
+2024-03-02,Magasin_2,E3_Magasin_2,Caissier,13:00,20:00
+2024-03-02,Magasin_2,E4_Magasin_2,Manager,6:00,12:00
+2024-03-02,Magasin_3,E1_Magasin_3,Manager,11:00,18:00
+2024-03-02,Magasin_3,E2_Magasin_3,Manager,10:00,18:00
+2024-03-02,Magasin_3,E3_Magasin_3,Caissier,13:00,21:00
+2024-03-02,Magasin_3,E4_Magasin_3,Manager,10:00,18:00
+2024-03-02,Magasin_4,E1_Magasin_4,Caissier,7:00,13:00
+2024-03-02,Magasin_4,E2_Magasin_4,Caissier,13:00,20:00
+2024-03-02,Magasin_4,E3_Magasin_4,Employé polyvalent,13:00,19:00
+2024-03-02,Magasin_4,E4_Magasin_4,Manager,6:00,12:00
+2024-03-02,Magasin_5,E1_Magasin_5,Employé polyvalent,8:00,15:00
+2024-03-02,Magasin_5,E2_Magasin_5,Manager,8:00,14:00
+2024-03-02,Magasin_5,E3_Magasin_5,Employé polyvalent,7:00,14:00
+2024-03-02,Magasin_5,E4_Magasin_5,Employé polyvalent,10:00,16:00
+2024-03-03,Magasin_1,E1_Magasin_1,Caissier,10:00,18:00
+2024-03-03,Magasin_1,E2_Magasin_1,Manager,13:00,21:00
+2024-03-03,Magasin_1,E3_Magasin_1,Caissier,9:00,17:00
+2024-03-03,Magasin_1,E4_Magasin_1,Manager,8:00,15:00
+2024-03-03,Magasin_2,E1_Magasin_2,Manager,10:00,18:00
+2024-03-03,Magasin_2,E2_Magasin_2,Caissier,12:00,18:00
+2024-03-03,Magasin_2,E3_Magasin_2,Manager,12:00,20:00
+2024-03-03,Magasin_2,E4_Magasin_2,Employé polyvalent,10:00,17:00
+2024-03-03,Magasin_3,E1_Magasin_3,Manager,12:00,20:00
+2024-03-03,Magasin_3,E2_Magasin_3,Manager,10:00,17:00
+2024-03-03,Magasin_3,E3_Magasin_3,Caissier,9:00,16:00
+2024-03-03,Magasin_3,E4_Magasin_3,Employé polyvalent,6:00,12:00
+2024-03-03,Magasin_4,E1_Magasin_4,Caissier,13:00,21:00
+2024-03-03,Magasin_4,E2_Magasin_4,Manager,9:00,15:00
+2024-03-03,Magasin_4,E3_Magasin_4,Manager,10:00,16:00
+2024-03-03,Magasin_4,E4_Magasin_4,Manager,7:00,15:00
+2024-03-03,Magasin_5,E1_Magasin_5,Employé polyvalent,9:00,15:00
+2024-03-03,Magasin_5,E2_Magasin_5,Employé polyvalent,9:00,15:00
+2024-03-03,Magasin_5,E3_Magasin_5,Manager,10:00,18:00
+2024-03-03,Magasin_5,E4_Magasin_5,Caissier,10:00,16:00
+2024-03-04,Magasin_1,E1_Magasin_1,Employé polyvalent,11:00,17:00
+2024-03-04,Magasin_1,E2_Magasin_1,Caissier,12:00,18:00
+2024-03-04,Magasin_1,E3_Magasin_1,Manager,13:00,21:00
+2024-03-04,Magasin_1,E4_Magasin_1,Manager,13:00,21:00
+2024-03-04,Magasin_2,E1_Magasin_2,Employé polyvalent,12:00,20:00
+2024-03-04,Magasin_2,E2_Magasin_2,Manager,10:00,18:00
+2024-03-04,Magasin_2,E3_Magasin_2,Caissier,6:00,14:00
+2024-03-04,Magasin_2,E4_Magasin_2,Manager,7:00,13:00
+2024-03-04,Magasin_3,E1_Magasin_3,Employé polyvalent,11:00,17:00
+2024-03-04,Magasin_3,E2_Magasin_3,Employé polyvalent,13:00,19:00
+2024-03-04,Magasin_3,E3_Magasin_3,Caissier,8:00,14:00
+2024-03-04,Magasin_3,E4_Magasin_3,Caissier,13:00,21:00
+2024-03-04,Magasin_4,E1_Magasin_4,Employé polyvalent,11:00,17:00
+2024-03-04,Magasin_4,E2_Magasin_4,Manager,10:00,17:00
+2024-03-04,Magasin_4,E3_Magasin_4,Caissier,12:00,20:00
+2024-03-04,Magasin_4,E4_Magasin_4,Caissier,9:00,17:00
+2024-03-04,Magasin_5,E1_Magasin_5,Caissier,8:00,16:00
+2024-03-04,Magasin_5,E2_Magasin_5,Manager,8:00,15:00
+2024-03-04,Magasin_5,E3_Magasin_5,Caissier,11:00,19:00
+2024-03-04,Magasin_5,E4_Magasin_5,Manager,9:00,16:00
+2024-03-05,Magasin_1,E1_Magasin_1,Employé polyvalent,7:00,15:00
+2024-03-05,Magasin_1,E2_Magasin_1,Caissier,7:00,13:00
+2024-03-05,Magasin_1,E3_Magasin_1,Manager,9:00,15:00
+2024-03-05,Magasin_1,E4_Magasin_1,Manager,12:00,19:00
+2024-03-05,Magasin_2,E1_Magasin_2,Employé polyvalent,7:00,13:00
+2024-03-05,Magasin_2,E2_Magasin_2,Employé polyvalent,12:00,20:00
+2024-03-05,Magasin_2,E3_Magasin_2,Employé polyvalent,13:00,20:00
+2024-03-05,Magasin_2,E4_Magasin_2,Caissier,12:00,20:00
+2024-03-05,Magasin_3,E1_Magasin_3,Caissier,6:00,14:00
+2024-03-05,Magasin_3,E2_Magasin_3,Manager,13:00,20:00
+2024-03-05,Magasin_3,E3_Magasin_3,Manager,13:00,20:00
+2024-03-05,Magasin_3,E4_Magasin_3,Manager,12:00,19:00
+2024-03-05,Magasin_4,E1_Magasin_4,Caissier,11:00,19:00
+2024-03-05,Magasin_4,E2_Magasin_4,Employé polyvalent,7:00,13:00
+2024-03-05,Magasin_4,E3_Magasin_4,Caissier,9:00,16:00
+2024-03-05,Magasin_4,E4_Magasin_4,Employé polyvalent,13:00,20:00
+2024-03-05,Magasin_5,E1_Magasin_5,Employé polyvalent,11:00,19:00
+2024-03-05,Magasin_5,E2_Magasin_5,Caissier,8:00,15:00
+2024-03-05,Magasin_5,E3_Magasin_5,Manager,9:00,16:00
+2024-03-05,Magasin_5,E4_Magasin_5,Employé polyvalent,6:00,14:00
+2024-03-06,Magasin_1,E1_Magasin_1,Caissier,6:00,12:00
+2024-03-06,Magasin_1,E2_Magasin_1,Employé polyvalent,12:00,19:00
+2024-03-06,Magasin_1,E3_Magasin_1,Employé polyvalent,9:00,16:00
+2024-03-06,Magasin_1,E4_Magasin_1,Employé polyvalent,13:00,20:00
+2024-03-06,Magasin_2,E1_Magasin_2,Manager,9:00,16:00
+2024-03-06,Magasin_2,E2_Magasin_2,Employé polyvalent,13:00,20:00
+2024-03-06,Magasin_2,E3_Magasin_2,Employé polyvalent,8:00,14:00
+2024-03-06,Magasin_2,E4_Magasin_2,Employé polyvalent,10:00,16:00
+2024-03-06,Magasin_3,E1_Magasin_3,Employé polyvalent,9:00,16:00
+2024-03-06,Magasin_3,E2_Magasin_3,Employé polyvalent,8:00,15:00
+2024-03-06,Magasin_3,E3_Magasin_3,Manager,13:00,20:00
+2024-03-06,Magasin_3,E4_Magasin_3,Caissier,10:00,16:00
+2024-03-06,Magasin_4,E1_Magasin_4,Manager,6:00,14:00
+2024-03-06,Magasin_4,E2_Magasin_4,Manager,8:00,14:00
+2024-03-06,Magasin_4,E3_Magasin_4,Manager,10:00,17:00
+2024-03-06,Magasin_4,E4_Magasin_4,Manager,13:00,19:00
+2024-03-06,Magasin_5,E1_Magasin_5,Employé polyvalent,12:00,19:00
+2024-03-06,Magasin_5,E2_Magasin_5,Manager,7:00,15:00
+2024-03-06,Magasin_5,E3_Magasin_5,Manager,12:00,18:00
+2024-03-06,Magasin_5,E4_Magasin_5,Caissier,12:00,19:00
+2024-03-07,Magasin_1,E1_Magasin_1,Manager,12:00,18:00
+2024-03-07,Magasin_1,E2_Magasin_1,Manager,9:00,16:00
+2024-03-07,Magasin_1,E3_Magasin_1,Manager,11:00,18:00
+2024-03-07,Magasin_1,E4_Magasin_1,Manager,7:00,13:00
+2024-03-07,Magasin_2,E1_Magasin_2,Employé polyvalent,7:00,15:00
+2024-03-07,Magasin_2,E2_Magasin_2,Caissier,13:00,20:00
+2024-03-07,Magasin_2,E3_Magasin_2,Employé polyvalent,12:00,20:00
+2024-03-07,Magasin_2,E4_Magasin_2,Caissier,12:00,19:00
+2024-03-07,Magasin_3,E1_Magasin_3,Caissier,12:00,20:00
+2024-03-07,Magasin_3,E2_Magasin_3,Manager,13:00,21:00
+2024-03-07,Magasin_3,E3_Magasin_3,Employé polyvalent,6:00,14:00
+2024-03-07,Magasin_3,E4_Magasin_3,Caissier,12:00,19:00
+2024-03-07,Magasin_4,E1_Magasin_4,Caissier,11:00,19:00
+2024-03-07,Magasin_4,E2_Magasin_4,Manager,8:00,15:00
+2024-03-07,Magasin_4,E3_Magasin_4,Manager,10:00,16:00
+2024-03-07,Magasin_4,E4_Magasin_4,Caissier,9:00,16:00
+2024-03-07,Magasin_5,E1_Magasin_5,Employé polyvalent,7:00,13:00
+2024-03-07,Magasin_5,E2_Magasin_5,Manager,9:00,15:00
+2024-03-07,Magasin_5,E3_Magasin_5,Employé polyvalent,9:00,16:00
+2024-03-07,Magasin_5,E4_Magasin_5,Employé polyvalent,6:00,12:00
+2024-03-08,Magasin_1,E1_Magasin_1,Manager,12:00,20:00
+2024-03-08,Magasin_1,E2_Magasin_1,Employé polyvalent,8:00,14:00
+2024-03-08,Magasin_1,E3_Magasin_1,Employé polyvalent,7:00,13:00
+2024-03-08,Magasin_1,E4_Magasin_1,Employé polyvalent,8:00,15:00
+2024-03-08,Magasin_2,E1_Magasin_2,Caissier,6:00,12:00
+2024-03-08,Magasin_2,E2_Magasin_2,Caissier,6:00,12:00
+2024-03-08,Magasin_2,E3_Magasin_2,Caissier,7:00,15:00
+2024-03-08,Magasin_2,E4_Magasin_2,Manager,6:00,14:00
+2024-03-08,Magasin_3,E1_Magasin_3,Employé polyvalent,10:00,16:00
+2024-03-08,Magasin_3,E2_Magasin_3,Employé polyvalent,13:00,21:00
+2024-03-08,Magasin_3,E3_Magasin_3,Employé polyvalent,7:00,15:00
+2024-03-08,Magasin_3,E4_Magasin_3,Caissier,10:00,17:00
+2024-03-08,Magasin_4,E1_Magasin_4,Employé polyvalent,13:00,21:00
+2024-03-08,Magasin_4,E2_Magasin_4,Caissier,7:00,14:00
+2024-03-08,Magasin_4,E3_Magasin_4,Caissier,7:00,13:00
+2024-03-08,Magasin_4,E4_Magasin_4,Employé polyvalent,9:00,15:00
+2024-03-08,Magasin_5,E1_Magasin_5,Manager,13:00,19:00
+2024-03-08,Magasin_5,E2_Magasin_5,Manager,9:00,17:00
+2024-03-08,Magasin_5,E3_Magasin_5,Manager,13:00,21:00
+2024-03-08,Magasin_5,E4_Magasin_5,Employé polyvalent,8:00,15:00
+2024-03-09,Magasin_1,E1_Magasin_1,Caissier,7:00,15:00
+2024-03-09,Magasin_1,E2_Magasin_1,Manager,7:00,15:00
+2024-03-09,Magasin_1,E3_Magasin_1,Manager,11:00,17:00
+2024-03-09,Magasin_1,E4_Magasin_1,Manager,8:00,14:00
+2024-03-09,Magasin_2,E1_Magasin_2,Caissier,9:00,15:00
+2024-03-09,Magasin_2,E2_Magasin_2,Caissier,8:00,16:00
+2024-03-09,Magasin_2,E3_Magasin_2,Caissier,10:00,18:00
+2024-03-09,Magasin_2,E4_Magasin_2,Manager,6:00,14:00
+2024-03-09,Magasin_3,E1_Magasin_3,Employé polyvalent,13:00,20:00
+2024-03-09,Magasin_3,E2_Magasin_3,Manager,13:00,19:00
+2024-03-09,Magasin_3,E3_Magasin_3,Employé polyvalent,9:00,17:00
+2024-03-09,Magasin_3,E4_Magasin_3,Employé polyvalent,12:00,18:00
+2024-03-09,Magasin_4,E1_Magasin_4,Employé polyvalent,12:00,20:00
+2024-03-09,Magasin_4,E2_Magasin_4,Caissier,12:00,20:00
+2024-03-09,Magasin_4,E3_Magasin_4,Caissier,12:00,20:00
+2024-03-09,Magasin_4,E4_Magasin_4,Employé polyvalent,6:00,12:00
+2024-03-09,Magasin_5,E1_Magasin_5,Manager,7:00,15:00
+2024-03-09,Magasin_5,E2_Magasin_5,Caissier,9:00,15:00
+2024-03-09,Magasin_5,E3_Magasin_5,Caissier,8:00,16:00
+2024-03-09,Magasin_5,E4_Magasin_5,Caissier,7:00,13:00
+2024-03-10,Magasin_1,E1_Magasin_1,Caissier,11:00,19:00
+2024-03-10,Magasin_1,E2_Magasin_1,Manager,7:00,15:00
+2024-03-10,Magasin_1,E3_Magasin_1,Manager,10:00,18:00
+2024-03-10,Magasin_1,E4_Magasin_1,Caissier,8:00,14:00
+2024-03-10,Magasin_2,E1_Magasin_2,Employé polyvalent,8:00,16:00
+2024-03-10,Magasin_2,E2_Magasin_2,Employé polyvalent,12:00,20:00
+2024-03-10,Magasin_2,E3_Magasin_2,Manager,11:00,17:00
+2024-03-10,Magasin_2,E4_Magasin_2,Manager,6:00,13:00
+2024-03-10,Magasin_3,E1_Magasin_3,Employé polyvalent,8:00,16:00
+2024-03-10,Magasin_3,E2_Magasin_3,Manager,11:00,19:00
+2024-03-10,Magasin_3,E3_Magasin_3,Employé polyvalent,11:00,19:00
+2024-03-10,Magasin_3,E4_Magasin_3,Employé polyvalent,9:00,15:00
+2024-03-10,Magasin_4,E1_Magasin_4,Caissier,8:00,16:00
+2024-03-10,Magasin_4,E2_Magasin_4,Employé polyvalent,10:00,18:00
+2024-03-10,Magasin_4,E3_Magasin_4,Employé polyvalent,7:00,15:00
+2024-03-10,Magasin_4,E4_Magasin_4,Caissier,13:00,21:00
+2024-03-10,Magasin_5,E1_Magasin_5,Caissier,13:00,19:00
+2024-03-10,Magasin_5,E2_Magasin_5,Caissier,8:00,16:00
+2024-03-10,Magasin_5,E3_Magasin_5,Employé polyvalent,7:00,14:00
+2024-03-10,Magasin_5,E4_Magasin_5,Caissier,12:00,19:00
+2024-03-11,Magasin_1,E1_Magasin_1,Manager,7:00,15:00
+2024-03-11,Magasin_1,E2_Magasin_1,Caissier,12:00,18:00
+2024-03-11,Magasin_1,E3_Magasin_1,Manager,13:00,19:00
+2024-03-11,Magasin_1,E4_Magasin_1,Caissier,9:00,16:00
+2024-03-11,Magasin_2,E1_Magasin_2,Manager,12:00,18:00
+2024-03-11,Magasin_2,E2_Magasin_2,Employé polyvalent,11:00,17:00
+2024-03-11,Magasin_2,E3_Magasin_2,Employé polyvalent,12:00,19:00
+2024-03-11,Magasin_2,E4_Magasin_2,Caissier,10:00,16:00
+2024-03-11,Magasin_3,E1_Magasin_3,Caissier,7:00,13:00
+2024-03-11,Magasin_3,E2_Magasin_3,Caissier,8:00,16:00
+2024-03-11,Magasin_3,E3_Magasin_3,Caissier,7:00,15:00
+2024-03-11,Magasin_3,E4_Magasin_3,Employé polyvalent,7:00,13:00
+2024-03-11,Magasin_4,E1_Magasin_4,Caissier,8:00,16:00
+2024-03-11,Magasin_4,E2_Magasin_4,Employé polyvalent,11:00,18:00
+2024-03-11,Magasin_4,E3_Magasin_4,Manager,6:00,12:00
+2024-03-11,Magasin_4,E4_Magasin_4,Caissier,10:00,18:00
+2024-03-11,Magasin_5,E1_Magasin_5,Caissier,9:00,15:00
+2024-03-11,Magasin_5,E2_Magasin_5,Employé polyvalent,6:00,12:00
+2024-03-11,Magasin_5,E3_Magasin_5,Caissier,10:00,16:00
+2024-03-11,Magasin_5,E4_Magasin_5,Caissier,7:00,14:00
+2024-03-12,Magasin_1,E1_Magasin_1,Caissier,10:00,16:00
+2024-03-12,Magasin_1,E2_Magasin_1,Caissier,11:00,18:00
+2024-03-12,Magasin_1,E3_Magasin_1,Caissier,12:00,20:00
+2024-03-12,Magasin_1,E4_Magasin_1,Caissier,9:00,16:00
+2024-03-12,Magasin_2,E1_Magasin_2,Employé polyvalent,11:00,18:00
+2024-03-12,Magasin_2,E2_Magasin_2,Caissier,10:00,17:00
+2024-03-12,Magasin_2,E3_Magasin_2,Caissier,11:00,19:00
+2024-03-12,Magasin_2,E4_Magasin_2,Manager,9:00,17:00
+2024-03-12,Magasin_3,E1_Magasin_3,Caissier,9:00,15:00
+2024-03-12,Magasin_3,E2_Magasin_3,Caissier,8:00,16:00
+2024-03-12,Magasin_3,E3_Magasin_3,Caissier,10:00,17:00
+2024-03-12,Magasin_3,E4_Magasin_3,Caissier,7:00,15:00
+2024-03-12,Magasin_4,E1_Magasin_4,Employé polyvalent,10:00,18:00
+2024-03-12,Magasin_4,E2_Magasin_4,Caissier,7:00,15:00
+2024-03-12,Magasin_4,E3_Magasin_4,Caissier,13:00,19:00
+2024-03-12,Magasin_4,E4_Magasin_4,Employé polyvalent,12:00,20:00
+2024-03-12,Magasin_5,E1_Magasin_5,Employé polyvalent,6:00,12:00
+2024-03-12,Magasin_5,E2_Magasin_5,Employé polyvalent,10:00,18:00
+2024-03-12,Magasin_5,E3_Magasin_5,Manager,9:00,16:00
+2024-03-12,Magasin_5,E4_Magasin_5,Caissier,7:00,13:00
+2024-03-13,Magasin_1,E1_Magasin_1,Manager,12:00,19:00
+2024-03-13,Magasin_1,E2_Magasin_1,Employé polyvalent,10:00,18:00
+2024-03-13,Magasin_1,E3_Magasin_1,Caissier,13:00,19:00
+2024-03-13,Magasin_1,E4_Magasin_1,Manager,6:00,12:00
+2024-03-13,Magasin_2,E1_Magasin_2,Manager,7:00,15:00
+2024-03-13,Magasin_2,E2_Magasin_2,Manager,6:00,13:00
+2024-03-13,Magasin_2,E3_Magasin_2,Employé polyvalent,7:00,14:00
+2024-03-13,Magasin_2,E4_Magasin_2,Manager,11:00,18:00
+2024-03-13,Magasin_3,E1_Magasin_3,Manager,6:00,13:00
+2024-03-13,Magasin_3,E2_Magasin_3,Caissier,7:00,15:00
+2024-03-13,Magasin_3,E3_Magasin_3,Employé polyvalent,11:00,19:00
+2024-03-13,Magasin_3,E4_Magasin_3,Employé polyvalent,11:00,19:00
+2024-03-13,Magasin_4,E1_Magasin_4,Manager,8:00,15:00
+2024-03-13,Magasin_4,E2_Magasin_4,Employé polyvalent,6:00,14:00
+2024-03-13,Magasin_4,E3_Magasin_4,Caissier,8:00,16:00
+2024-03-13,Magasin_4,E4_Magasin_4,Employé polyvalent,13:00,19:00
+2024-03-13,Magasin_5,E1_Magasin_5,Employé polyvalent,6:00,13:00
+2024-03-13,Magasin_5,E2_Magasin_5,Caissier,8:00,16:00
+2024-03-13,Magasin_5,E3_Magasin_5,Caissier,13:00,19:00
+2024-03-13,Magasin_5,E4_Magasin_5,Caissier,8:00,15:00
+2024-03-14,Magasin_1,E1_Magasin_1,Caissier,10:00,16:00
+2024-03-14,Magasin_1,E2_Magasin_1,Employé polyvalent,13:00,20:00
+2024-03-14,Magasin_1,E3_Magasin_1,Employé polyvalent,8:00,16:00
+2024-03-14,Magasin_1,E4_Magasin_1,Caissier,9:00,17:00
+2024-03-14,Magasin_2,E1_Magasin_2,Caissier,10:00,16:00
+2024-03-14,Magasin_2,E2_Magasin_2,Employé polyvalent,9:00,17:00
+2024-03-14,Magasin_2,E3_Magasin_2,Employé polyvalent,13:00,19:00
+2024-03-14,Magasin_2,E4_Magasin_2,Manager,9:00,17:00
+2024-03-14,Magasin_3,E1_Magasin_3,Manager,7:00,15:00
+2024-03-14,Magasin_3,E2_Magasin_3,Manager,6:00,13:00
+2024-03-14,Magasin_3,E3_Magasin_3,Manager,13:00,19:00
+2024-03-14,Magasin_3,E4_Magasin_3,Manager,11:00,18:00
+2024-03-14,Magasin_4,E1_Magasin_4,Manager,8:00,14:00
+2024-03-14,Magasin_4,E2_Magasin_4,Caissier,8:00,16:00
+2024-03-14,Magasin_4,E3_Magasin_4,Employé polyvalent,10:00,18:00
+2024-03-14,Magasin_4,E4_Magasin_4,Employé polyvalent,8:00,16:00
+2024-03-14,Magasin_5,E1_Magasin_5,Manager,11:00,18:00
+2024-03-14,Magasin_5,E2_Magasin_5,Manager,9:00,17:00
+2024-03-14,Magasin_5,E3_Magasin_5,Employé polyvalent,11:00,17:00
+2024-03-14,Magasin_5,E4_Magasin_5,Manager,10:00,16:00
+2024-03-15,Magasin_1,E1_Magasin_1,Caissier,6:00,14:00
+2024-03-15,Magasin_1,E2_Magasin_1,Employé polyvalent,8:00,14:00
+2024-03-15,Magasin_1,E3_Magasin_1,Caissier,10:00,17:00
+2024-03-15,Magasin_1,E4_Magasin_1,Manager,8:00,15:00
+2024-03-15,Magasin_2,E1_Magasin_2,Employé polyvalent,9:00,16:00
+2024-03-15,Magasin_2,E2_Magasin_2,Employé polyvalent,9:00,16:00
+2024-03-15,Magasin_2,E3_Magasin_2,Manager,12:00,20:00
+2024-03-15,Magasin_2,E4_Magasin_2,Employé polyvalent,10:00,18:00
+2024-03-15,Magasin_3,E1_Magasin_3,Manager,6:00,13:00
+2024-03-15,Magasin_3,E2_Magasin_3,Employé polyvalent,10:00,17:00
+2024-03-15,Magasin_3,E3_Magasin_3,Employé polyvalent,10:00,17:00
+2024-03-15,Magasin_3,E4_Magasin_3,Employé polyvalent,11:00,17:00
+2024-03-15,Magasin_4,E1_Magasin_4,Caissier,12:00,18:00
+2024-03-15,Magasin_4,E2_Magasin_4,Employé polyvalent,6:00,13:00
+2024-03-15,Magasin_4,E3_Magasin_4,Caissier,13:00,21:00
+2024-03-15,Magasin_4,E4_Magasin_4,Manager,13:00,19:00
+2024-03-15,Magasin_5,E1_Magasin_5,Caissier,12:00,18:00
+2024-03-15,Magasin_5,E2_Magasin_5,Manager,10:00,18:00
+2024-03-15,Magasin_5,E3_Magasin_5,Employé polyvalent,9:00,15:00
+2024-03-15,Magasin_5,E4_Magasin_5,Employé polyvalent,9:00,17:00
+2024-03-16,Magasin_1,E1_Magasin_1,Caissier,11:00,19:00
+2024-03-16,Magasin_1,E2_Magasin_1,Caissier,10:00,16:00
+2024-03-16,Magasin_1,E3_Magasin_1,Caissier,9:00,16:00
+2024-03-16,Magasin_1,E4_Magasin_1,Employé polyvalent,11:00,17:00
+2024-03-16,Magasin_2,E1_Magasin_2,Employé polyvalent,8:00,16:00
+2024-03-16,Magasin_2,E2_Magasin_2,Manager,12:00,20:00
+2024-03-16,Magasin_2,E3_Magasin_2,Manager,6:00,12:00
+2024-03-16,Magasin_2,E4_Magasin_2,Employé polyvalent,13:00,20:00
+2024-03-16,Magasin_3,E1_Magasin_3,Caissier,10:00,17:00
+2024-03-16,Magasin_3,E2_Magasin_3,Employé polyvalent,6:00,13:00
+2024-03-16,Magasin_3,E3_Magasin_3,Manager,8:00,14:00
+2024-03-16,Magasin_3,E4_Magasin_3,Caissier,11:00,19:00
+2024-03-16,Magasin_4,E1_Magasin_4,Caissier,10:00,18:00
+2024-03-16,Magasin_4,E2_Magasin_4,Caissier,8:00,15:00
+2024-03-16,Magasin_4,E3_Magasin_4,Employé polyvalent,11:00,18:00
+2024-03-16,Magasin_4,E4_Magasin_4,Caissier,10:00,16:00
+2024-03-16,Magasin_5,E1_Magasin_5,Manager,9:00,15:00
+2024-03-16,Magasin_5,E2_Magasin_5,Caissier,11:00,18:00
+2024-03-16,Magasin_5,E3_Magasin_5,Caissier,7:00,13:00
+2024-03-16,Magasin_5,E4_Magasin_5,Employé polyvalent,13:00,20:00
+2024-03-17,Magasin_1,E1_Magasin_1,Caissier,9:00,17:00
+2024-03-17,Magasin_1,E2_Magasin_1,Manager,7:00,13:00
+2024-03-17,Magasin_1,E3_Magasin_1,Caissier,6:00,13:00
+2024-03-17,Magasin_1,E4_Magasin_1,Employé polyvalent,12:00,20:00
+2024-03-17,Magasin_2,E1_Magasin_2,Caissier,6:00,14:00
+2024-03-17,Magasin_2,E2_Magasin_2,Employé polyvalent,9:00,16:00
+2024-03-17,Magasin_2,E3_Magasin_2,Manager,11:00,18:00
+2024-03-17,Magasin_2,E4_Magasin_2,Manager,12:00,18:00
+2024-03-17,Magasin_3,E1_Magasin_3,Caissier,9:00,16:00
+2024-03-17,Magasin_3,E2_Magasin_3,Caissier,7:00,13:00
+2024-03-17,Magasin_3,E3_Magasin_3,Manager,6:00,14:00
+2024-03-17,Magasin_3,E4_Magasin_3,Employé polyvalent,8:00,15:00
+2024-03-17,Magasin_4,E1_Magasin_4,Manager,12:00,19:00
+2024-03-17,Magasin_4,E2_Magasin_4,Employé polyvalent,12:00,19:00
+2024-03-17,Magasin_4,E3_Magasin_4,Employé polyvalent,13:00,20:00
+2024-03-17,Magasin_4,E4_Magasin_4,Employé polyvalent,13:00,19:00
+2024-03-17,Magasin_5,E1_Magasin_5,Manager,7:00,15:00
+2024-03-17,Magasin_5,E2_Magasin_5,Caissier,11:00,19:00
+2024-03-17,Magasin_5,E3_Magasin_5,Caissier,6:00,14:00
+2024-03-17,Magasin_5,E4_Magasin_5,Caissier,9:00,17:00
+2024-03-18,Magasin_1,E1_Magasin_1,Caissier,9:00,17:00
+2024-03-18,Magasin_1,E2_Magasin_1,Caissier,12:00,20:00
+2024-03-18,Magasin_1,E3_Magasin_1,Manager,13:00,20:00
+2024-03-18,Magasin_1,E4_Magasin_1,Caissier,12:00,19:00
+2024-03-18,Magasin_2,E1_Magasin_2,Caissier,8:00,16:00
+2024-03-18,Magasin_2,E2_Magasin_2,Manager,10:00,17:00
+2024-03-18,Magasin_2,E3_Magasin_2,Caissier,7:00,15:00
+2024-03-18,Magasin_2,E4_Magasin_2,Employé polyvalent,9:00,15:00
+2024-03-18,Magasin_3,E1_Magasin_3,Manager,8:00,16:00
+2024-03-18,Magasin_3,E2_Magasin_3,Manager,11:00,19:00
+2024-03-18,Magasin_3,E3_Magasin_3,Manager,11:00,19:00
+2024-03-18,Magasin_3,E4_Magasin_3,Employé polyvalent,11:00,18:00
+2024-03-18,Magasin_4,E1_Magasin_4,Employé polyvalent,8:00,16:00
+2024-03-18,Magasin_4,E2_Magasin_4,Employé polyvalent,13:00,20:00
+2024-03-18,Magasin_4,E3_Magasin_4,Caissier,7:00,14:00
+2024-03-18,Magasin_4,E4_Magasin_4,Caissier,12:00,19:00
+2024-03-18,Magasin_5,E1_Magasin_5,Caissier,11:00,19:00
+2024-03-18,Magasin_5,E2_Magasin_5,Manager,13:00,21:00
+2024-03-18,Magasin_5,E3_Magasin_5,Caissier,7:00,14:00
+2024-03-18,Magasin_5,E4_Magasin_5,Employé polyvalent,9:00,15:00
+2024-03-19,Magasin_1,E1_Magasin_1,Employé polyvalent,9:00,16:00
+2024-03-19,Magasin_1,E2_Magasin_1,Manager,8:00,16:00
+2024-03-19,Magasin_1,E3_Magasin_1,Employé polyvalent,9:00,16:00
+2024-03-19,Magasin_1,E4_Magasin_1,Employé polyvalent,6:00,13:00
+2024-03-19,Magasin_2,E1_Magasin_2,Employé polyvalent,7:00,13:00
+2024-03-19,Magasin_2,E2_Magasin_2,Manager,7:00,14:00
+2024-03-19,Magasin_2,E3_Magasin_2,Employé polyvalent,6:00,13:00
+2024-03-19,Magasin_2,E4_Magasin_2,Employé polyvalent,7:00,15:00
+2024-03-19,Magasin_3,E1_Magasin_3,Manager,9:00,17:00
+2024-03-19,Magasin_3,E2_Magasin_3,Manager,13:00,21:00
+2024-03-19,Magasin_3,E3_Magasin_3,Manager,8:00,14:00
+2024-03-19,Magasin_3,E4_Magasin_3,Employé polyvalent,7:00,14:00
+2024-03-19,Magasin_4,E1_Magasin_4,Caissier,6:00,13:00
+2024-03-19,Magasin_4,E2_Magasin_4,Employé polyvalent,9:00,16:00
+2024-03-19,Magasin_4,E3_Magasin_4,Manager,8:00,16:00
+2024-03-19,Magasin_4,E4_Magasin_4,Caissier,9:00,15:00
+2024-03-19,Magasin_5,E1_Magasin_5,Manager,13:00,19:00
+2024-03-19,Magasin_5,E2_Magasin_5,Caissier,12:00,18:00
+2024-03-19,Magasin_5,E3_Magasin_5,Caissier,10:00,17:00
+2024-03-19,Magasin_5,E4_Magasin_5,Manager,9:00,17:00
+2024-03-20,Magasin_1,E1_Magasin_1,Caissier,8:00,14:00
+2024-03-20,Magasin_1,E2_Magasin_1,Caissier,9:00,15:00
+2024-03-20,Magasin_1,E3_Magasin_1,Caissier,6:00,14:00
+2024-03-20,Magasin_1,E4_Magasin_1,Caissier,6:00,13:00
+2024-03-20,Magasin_2,E1_Magasin_2,Caissier,7:00,14:00
+2024-03-20,Magasin_2,E2_Magasin_2,Manager,11:00,18:00
+2024-03-20,Magasin_2,E3_Magasin_2,Caissier,12:00,18:00
+2024-03-20,Magasin_2,E4_Magasin_2,Manager,10:00,16:00
+2024-03-20,Magasin_3,E1_Magasin_3,Employé polyvalent,11:00,19:00
+2024-03-20,Magasin_3,E2_Magasin_3,Caissier,11:00,17:00
+2024-03-20,Magasin_3,E3_Magasin_3,Manager,8:00,15:00
+2024-03-20,Magasin_3,E4_Magasin_3,Manager,9:00,16:00
+2024-03-20,Magasin_4,E1_Magasin_4,Caissier,13:00,19:00
+2024-03-20,Magasin_4,E2_Magasin_4,Caissier,8:00,16:00
+2024-03-20,Magasin_4,E3_Magasin_4,Manager,13:00,19:00
+2024-03-20,Magasin_4,E4_Magasin_4,Employé polyvalent,13:00,20:00
+2024-03-20,Magasin_5,E1_Magasin_5,Manager,9:00,16:00
+2024-03-20,Magasin_5,E2_Magasin_5,Employé polyvalent,12:00,20:00
+2024-03-20,Magasin_5,E3_Magasin_5,Employé polyvalent,6:00,13:00
+2024-03-20,Magasin_5,E4_Magasin_5,Manager,7:00,15:00
+2024-03-21,Magasin_1,E1_Magasin_1,Employé polyvalent,9:00,17:00
+2024-03-21,Magasin_1,E2_Magasin_1,Employé polyvalent,9:00,15:00
+2024-03-21,Magasin_1,E3_Magasin_1,Employé polyvalent,11:00,19:00
+2024-03-21,Magasin_1,E4_Magasin_1,Caissier,10:00,17:00
+2024-03-21,Magasin_2,E1_Magasin_2,Manager,12:00,18:00
+2024-03-21,Magasin_2,E2_Magasin_2,Manager,13:00,20:00
+2024-03-21,Magasin_2,E3_Magasin_2,Caissier,12:00,19:00
+2024-03-21,Magasin_2,E4_Magasin_2,Manager,11:00,19:00
+2024-03-21,Magasin_3,E1_Magasin_3,Manager,7:00,13:00
+2024-03-21,Magasin_3,E2_Magasin_3,Employé polyvalent,8:00,14:00
+2024-03-21,Magasin_3,E3_Magasin_3,Caissier,11:00,17:00
+2024-03-21,Magasin_3,E4_Magasin_3,Caissier,7:00,13:00
+2024-03-21,Magasin_4,E1_Magasin_4,Employé polyvalent,12:00,19:00
+2024-03-21,Magasin_4,E2_Magasin_4,Manager,11:00,17:00
+2024-03-21,Magasin_4,E3_Magasin_4,Employé polyvalent,7:00,13:00
+2024-03-21,Magasin_4,E4_Magasin_4,Caissier,10:00,18:00
+2024-03-21,Magasin_5,E1_Magasin_5,Caissier,8:00,14:00
+2024-03-21,Magasin_5,E2_Magasin_5,Caissier,10:00,16:00
+2024-03-21,Magasin_5,E3_Magasin_5,Caissier,7:00,13:00
+2024-03-21,Magasin_5,E4_Magasin_5,Manager,7:00,15:00
+2024-03-22,Magasin_1,E1_Magasin_1,Manager,9:00,15:00
+2024-03-22,Magasin_1,E2_Magasin_1,Manager,12:00,18:00
+2024-03-22,Magasin_1,E3_Magasin_1,Employé polyvalent,8:00,16:00
+2024-03-22,Magasin_1,E4_Magasin_1,Employé polyvalent,13:00,21:00
+2024-03-22,Magasin_2,E1_Magasin_2,Manager,8:00,14:00
+2024-03-22,Magasin_2,E2_Magasin_2,Employé polyvalent,13:00,19:00
+2024-03-22,Magasin_2,E3_Magasin_2,Manager,13:00,19:00
+2024-03-22,Magasin_2,E4_Magasin_2,Manager,6:00,13:00
+2024-03-22,Magasin_3,E1_Magasin_3,Employé polyvalent,12:00,20:00
+2024-03-22,Magasin_3,E2_Magasin_3,Caissier,11:00,17:00
+2024-03-22,Magasin_3,E3_Magasin_3,Manager,11:00,17:00
+2024-03-22,Magasin_3,E4_Magasin_3,Employé polyvalent,9:00,17:00
+2024-03-22,Magasin_4,E1_Magasin_4,Caissier,12:00,19:00
+2024-03-22,Magasin_4,E2_Magasin_4,Employé polyvalent,8:00,14:00
+2024-03-22,Magasin_4,E3_Magasin_4,Employé polyvalent,12:00,19:00
+2024-03-22,Magasin_4,E4_Magasin_4,Manager,10:00,17:00
+2024-03-22,Magasin_5,E1_Magasin_5,Caissier,10:00,17:00
+2024-03-22,Magasin_5,E2_Magasin_5,Caissier,10:00,18:00
+2024-03-22,Magasin_5,E3_Magasin_5,Manager,13:00,21:00
+2024-03-22,Magasin_5,E4_Magasin_5,Caissier,9:00,16:00
+2024-03-23,Magasin_1,E1_Magasin_1,Manager,11:00,18:00
+2024-03-23,Magasin_1,E2_Magasin_1,Employé polyvalent,13:00,21:00
+2024-03-23,Magasin_1,E3_Magasin_1,Manager,13:00,20:00
+2024-03-23,Magasin_1,E4_Magasin_1,Employé polyvalent,12:00,19:00
+2024-03-23,Magasin_2,E1_Magasin_2,Employé polyvalent,11:00,18:00
+2024-03-23,Magasin_2,E2_Magasin_2,Manager,6:00,13:00
+2024-03-23,Magasin_2,E3_Magasin_2,Manager,11:00,18:00
+2024-03-23,Magasin_2,E4_Magasin_2,Caissier,6:00,12:00
+2024-03-23,Magasin_3,E1_Magasin_3,Manager,7:00,14:00
+2024-03-23,Magasin_3,E2_Magasin_3,Employé polyvalent,7:00,13:00
+2024-03-23,Magasin_3,E3_Magasin_3,Manager,12:00,19:00
+2024-03-23,Magasin_3,E4_Magasin_3,Manager,6:00,13:00
+2024-03-23,Magasin_4,E1_Magasin_4,Manager,9:00,16:00
+2024-03-23,Magasin_4,E2_Magasin_4,Manager,12:00,20:00
+2024-03-23,Magasin_4,E3_Magasin_4,Employé polyvalent,8:00,15:00
+2024-03-23,Magasin_4,E4_Magasin_4,Caissier,13:00,21:00
+2024-03-23,Magasin_5,E1_Magasin_5,Manager,7:00,14:00
+2024-03-23,Magasin_5,E2_Magasin_5,Caissier,6:00,14:00
+2024-03-23,Magasin_5,E3_Magasin_5,Manager,9:00,16:00
+2024-03-23,Magasin_5,E4_Magasin_5,Employé polyvalent,12:00,18:00
+2024-03-24,Magasin_1,E1_Magasin_1,Caissier,8:00,14:00
+2024-03-24,Magasin_1,E2_Magasin_1,Manager,12:00,20:00
+2024-03-24,Magasin_1,E3_Magasin_1,Manager,7:00,15:00
+2024-03-24,Magasin_1,E4_Magasin_1,Manager,7:00,13:00
+2024-03-24,Magasin_2,E1_Magasin_2,Caissier,7:00,15:00
+2024-03-24,Magasin_2,E2_Magasin_2,Employé polyvalent,6:00,12:00
+2024-03-24,Magasin_2,E3_Magasin_2,Caissier,13:00,21:00
+2024-03-24,Magasin_2,E4_Magasin_2,Employé polyvalent,6:00,14:00
+2024-03-24,Magasin_3,E1_Magasin_3,Employé polyvalent,11:00,18:00
+2024-03-24,Magasin_3,E2_Magasin_3,Manager,7:00,15:00
+2024-03-24,Magasin_3,E3_Magasin_3,Caissier,13:00,19:00
+2024-03-24,Magasin_3,E4_Magasin_3,Caissier,13:00,19:00
+2024-03-24,Magasin_4,E1_Magasin_4,Manager,13:00,20:00
+2024-03-24,Magasin_4,E2_Magasin_4,Caissier,7:00,15:00
+2024-03-24,Magasin_4,E3_Magasin_4,Manager,7:00,15:00
+2024-03-24,Magasin_4,E4_Magasin_4,Employé polyvalent,11:00,17:00
+2024-03-24,Magasin_5,E1_Magasin_5,Manager,9:00,15:00
+2024-03-24,Magasin_5,E2_Magasin_5,Employé polyvalent,13:00,19:00
+2024-03-24,Magasin_5,E3_Magasin_5,Caissier,8:00,14:00
+2024-03-24,Magasin_5,E4_Magasin_5,Employé polyvalent,11:00,18:00
+2024-03-25,Magasin_1,E1_Magasin_1,Manager,11:00,19:00
+2024-03-25,Magasin_1,E2_Magasin_1,Manager,11:00,18:00
+2024-03-25,Magasin_1,E3_Magasin_1,Employé polyvalent,8:00,15:00
+2024-03-25,Magasin_1,E4_Magasin_1,Employé polyvalent,13:00,19:00
+2024-03-25,Magasin_2,E1_Magasin_2,Employé polyvalent,6:00,12:00
+2024-03-25,Magasin_2,E2_Magasin_2,Employé polyvalent,7:00,13:00
+2024-03-25,Magasin_2,E3_Magasin_2,Employé polyvalent,8:00,15:00
+2024-03-25,Magasin_2,E4_Magasin_2,Caissier,12:00,18:00
+2024-03-25,Magasin_3,E1_Magasin_3,Manager,7:00,14:00
+2024-03-25,Magasin_3,E2_Magasin_3,Employé polyvalent,12:00,20:00
+2024-03-25,Magasin_3,E3_Magasin_3,Employé polyvalent,13:00,20:00
+2024-03-25,Magasin_3,E4_Magasin_3,Manager,9:00,16:00
+2024-03-25,Magasin_4,E1_Magasin_4,Caissier,10:00,16:00
+2024-03-25,Magasin_4,E2_Magasin_4,Employé polyvalent,13:00,20:00
+2024-03-25,Magasin_4,E3_Magasin_4,Employé polyvalent,7:00,14:00
+2024-03-25,Magasin_4,E4_Magasin_4,Manager,11:00,18:00
+2024-03-25,Magasin_5,E1_Magasin_5,Employé polyvalent,11:00,17:00
+2024-03-25,Magasin_5,E2_Magasin_5,Caissier,10:00,18:00
+2024-03-25,Magasin_5,E3_Magasin_5,Caissier,6:00,12:00
+2024-03-25,Magasin_5,E4_Magasin_5,Manager,9:00,17:00
+2024-03-26,Magasin_1,E1_Magasin_1,Caissier,8:00,15:00
+2024-03-26,Magasin_1,E2_Magasin_1,Caissier,10:00,17:00
+2024-03-26,Magasin_1,E3_Magasin_1,Employé polyvalent,13:00,20:00
+2024-03-26,Magasin_1,E4_Magasin_1,Employé polyvalent,9:00,17:00
+2024-03-26,Magasin_2,E1_Magasin_2,Caissier,10:00,18:00
+2024-03-26,Magasin_2,E2_Magasin_2,Employé polyvalent,6:00,13:00
+2024-03-26,Magasin_2,E3_Magasin_2,Employé polyvalent,12:00,18:00
+2024-03-26,Magasin_2,E4_Magasin_2,Employé polyvalent,7:00,13:00
+2024-03-26,Magasin_3,E1_Magasin_3,Caissier,11:00,19:00
+2024-03-26,Magasin_3,E2_Magasin_3,Manager,12:00,20:00
+2024-03-26,Magasin_3,E3_Magasin_3,Employé polyvalent,12:00,20:00
+2024-03-26,Magasin_3,E4_Magasin_3,Employé polyvalent,9:00,17:00
+2024-03-26,Magasin_4,E1_Magasin_4,Manager,13:00,19:00
+2024-03-26,Magasin_4,E2_Magasin_4,Manager,11:00,19:00
+2024-03-26,Magasin_4,E3_Magasin_4,Employé polyvalent,9:00,16:00
+2024-03-26,Magasin_4,E4_Magasin_4,Employé polyvalent,6:00,12:00
+2024-03-26,Magasin_5,E1_Magasin_5,Manager,9:00,17:00
+2024-03-26,Magasin_5,E2_Magasin_5,Manager,10:00,16:00
+2024-03-26,Magasin_5,E3_Magasin_5,Manager,6:00,13:00
+2024-03-26,Magasin_5,E4_Magasin_5,Manager,6:00,13:00
+2024-03-27,Magasin_1,E1_Magasin_1,Caissier,13:00,20:00
+2024-03-27,Magasin_1,E2_Magasin_1,Manager,8:00,14:00
+2024-03-27,Magasin_1,E3_Magasin_1,Manager,13:00,20:00
+2024-03-27,Magasin_1,E4_Magasin_1,Manager,11:00,18:00
+2024-03-27,Magasin_2,E1_Magasin_2,Manager,8:00,15:00
+2024-03-27,Magasin_2,E2_Magasin_2,Caissier,8:00,16:00
+2024-03-27,Magasin_2,E3_Magasin_2,Caissier,11:00,19:00
+2024-03-27,Magasin_2,E4_Magasin_2,Manager,13:00,19:00
+2024-03-27,Magasin_3,E1_Magasin_3,Caissier,12:00,20:00
+2024-03-27,Magasin_3,E2_Magasin_3,Caissier,8:00,15:00
+2024-03-27,Magasin_3,E3_Magasin_3,Manager,10:00,18:00
+2024-03-27,Magasin_3,E4_Magasin_3,Caissier,6:00,12:00
+2024-03-27,Magasin_4,E1_Magasin_4,Employé polyvalent,10:00,17:00
+2024-03-27,Magasin_4,E2_Magasin_4,Manager,9:00,16:00
+2024-03-27,Magasin_4,E3_Magasin_4,Caissier,10:00,18:00
+2024-03-27,Magasin_4,E4_Magasin_4,Employé polyvalent,13:00,20:00
+2024-03-27,Magasin_5,E1_Magasin_5,Employé polyvalent,13:00,19:00
+2024-03-27,Magasin_5,E2_Magasin_5,Employé polyvalent,11:00,19:00
+2024-03-27,Magasin_5,E3_Magasin_5,Employé polyvalent,10:00,16:00
+2024-03-27,Magasin_5,E4_Magasin_5,Manager,8:00,16:00
+2024-03-28,Magasin_1,E1_Magasin_1,Employé polyvalent,11:00,17:00
+2024-03-28,Magasin_1,E2_Magasin_1,Manager,10:00,16:00
+2024-03-28,Magasin_1,E3_Magasin_1,Caissier,12:00,19:00
+2024-03-28,Magasin_1,E4_Magasin_1,Manager,12:00,19:00
+2024-03-28,Magasin_2,E1_Magasin_2,Manager,8:00,16:00
+2024-03-28,Magasin_2,E2_Magasin_2,Manager,10:00,18:00
+2024-03-28,Magasin_2,E3_Magasin_2,Manager,8:00,16:00
+2024-03-28,Magasin_2,E4_Magasin_2,Manager,9:00,17:00
+2024-03-28,Magasin_3,E1_Magasin_3,Employé polyvalent,13:00,19:00
+2024-03-28,Magasin_3,E2_Magasin_3,Caissier,8:00,14:00
+2024-03-28,Magasin_3,E3_Magasin_3,Employé polyvalent,6:00,14:00
+2024-03-28,Magasin_3,E4_Magasin_3,Caissier,8:00,14:00
+2024-03-28,Magasin_4,E1_Magasin_4,Employé polyvalent,8:00,16:00
+2024-03-28,Magasin_4,E2_Magasin_4,Manager,11:00,17:00
+2024-03-28,Magasin_4,E3_Magasin_4,Caissier,8:00,14:00
+2024-03-28,Magasin_4,E4_Magasin_4,Manager,12:00,20:00
+2024-03-28,Magasin_5,E1_Magasin_5,Caissier,11:00,19:00
+2024-03-28,Magasin_5,E2_Magasin_5,Caissier,11:00,18:00
+2024-03-28,Magasin_5,E3_Magasin_5,Manager,6:00,13:00
+2024-03-28,Magasin_5,E4_Magasin_5,Employé polyvalent,13:00,19:00
+2024-03-29,Magasin_1,E1_Magasin_1,Manager,7:00,13:00
+2024-03-29,Magasin_1,E2_Magasin_1,Manager,9:00,16:00
+2024-03-29,Magasin_1,E3_Magasin_1,Caissier,7:00,14:00
+2024-03-29,Magasin_1,E4_Magasin_1,Caissier,10:00,17:00
+2024-03-29,Magasin_2,E1_Magasin_2,Caissier,11:00,18:00
+2024-03-29,Magasin_2,E2_Magasin_2,Employé polyvalent,12:00,18:00
+2024-03-29,Magasin_2,E3_Magasin_2,Caissier,11:00,18:00
+2024-03-29,Magasin_2,E4_Magasin_2,Employé polyvalent,6:00,13:00
+2024-03-29,Magasin_3,E1_Magasin_3,Employé polyvalent,9:00,15:00
+2024-03-29,Magasin_3,E2_Magasin_3,Caissier,11:00,18:00
+2024-03-29,Magasin_3,E3_Magasin_3,Employé polyvalent,13:00,21:00
+2024-03-29,Magasin_3,E4_Magasin_3,Caissier,11:00,19:00
+2024-03-29,Magasin_4,E1_Magasin_4,Employé polyvalent,10:00,18:00
+2024-03-29,Magasin_4,E2_Magasin_4,Employé polyvalent,13:00,20:00
+2024-03-29,Magasin_4,E3_Magasin_4,Employé polyvalent,11:00,19:00
+2024-03-29,Magasin_4,E4_Magasin_4,Caissier,9:00,16:00
+2024-03-29,Magasin_5,E1_Magasin_5,Caissier,9:00,15:00
+2024-03-29,Magasin_5,E2_Magasin_5,Employé polyvalent,6:00,13:00
+2024-03-29,Magasin_5,E3_Magasin_5,Manager,7:00,14:00
+2024-03-29,Magasin_5,E4_Magasin_5,Caissier,13:00,21:00
+2024-03-30,Magasin_1,E1_Magasin_1,Employé polyvalent,9:00,15:00
+2024-03-30,Magasin_1,E2_Magasin_1,Employé polyvalent,13:00,19:00
+2024-03-30,Magasin_1,E3_Magasin_1,Caissier,6:00,13:00
+2024-03-30,Magasin_1,E4_Magasin_1,Caissier,7:00,13:00
+2024-03-30,Magasin_2,E1_Magasin_2,Employé polyvalent,6:00,14:00
+2024-03-30,Magasin_2,E2_Magasin_2,Manager,9:00,16:00
+2024-03-30,Magasin_2,E3_Magasin_2,Employé polyvalent,8:00,16:00
+2024-03-30,Magasin_2,E4_Magasin_2,Manager,11:00,19:00
+2024-03-30,Magasin_3,E1_Magasin_3,Manager,10:00,18:00
+2024-03-30,Magasin_3,E2_Magasin_3,Employé polyvalent,9:00,15:00
+2024-03-30,Magasin_3,E3_Magasin_3,Employé polyvalent,6:00,14:00
+2024-03-30,Magasin_3,E4_Magasin_3,Manager,11:00,18:00
+2024-03-30,Magasin_4,E1_Magasin_4,Employé polyvalent,8:00,15:00
+2024-03-30,Magasin_4,E2_Magasin_4,Manager,11:00,18:00
+2024-03-30,Magasin_4,E3_Magasin_4,Employé polyvalent,9:00,15:00
+2024-03-30,Magasin_4,E4_Magasin_4,Manager,8:00,16:00
+2024-03-30,Magasin_5,E1_Magasin_5,Caissier,11:00,19:00
+2024-03-30,Magasin_5,E2_Magasin_5,Caissier,12:00,20:00
+2024-03-30,Magasin_5,E3_Magasin_5,Caissier,13:00,19:00
+2024-03-30,Magasin_5,E4_Magasin_5,Employé polyvalent,6:00,12:00
+2024-03-31,Magasin_1,E1_Magasin_1,Caissier,6:00,12:00
+2024-03-31,Magasin_1,E2_Magasin_1,Employé polyvalent,7:00,13:00
+2024-03-31,Magasin_1,E3_Magasin_1,Manager,12:00,18:00
+2024-03-31,Magasin_1,E4_Magasin_1,Manager,10:00,18:00
+2024-03-31,Magasin_2,E1_Magasin_2,Employé polyvalent,12:00,18:00
+2024-03-31,Magasin_2,E2_Magasin_2,Manager,7:00,13:00
+2024-03-31,Magasin_2,E3_Magasin_2,Caissier,6:00,14:00
+2024-03-31,Magasin_2,E4_Magasin_2,Manager,6:00,13:00
+2024-03-31,Magasin_3,E1_Magasin_3,Employé polyvalent,8:00,14:00
+2024-03-31,Magasin_3,E2_Magasin_3,Manager,8:00,16:00
+2024-03-31,Magasin_3,E3_Magasin_3,Caissier,8:00,14:00
+2024-03-31,Magasin_3,E4_Magasin_3,Manager,7:00,15:00
+2024-03-31,Magasin_4,E1_Magasin_4,Employé polyvalent,12:00,19:00
+2024-03-31,Magasin_4,E2_Magasin_4,Manager,6:00,12:00
+2024-03-31,Magasin_4,E3_Magasin_4,Manager,6:00,14:00
+2024-03-31,Magasin_4,E4_Magasin_4,Employé polyvalent,6:00,13:00
+2024-03-31,Magasin_5,E1_Magasin_5,Caissier,13:00,20:00
+2024-03-31,Magasin_5,E2_Magasin_5,Employé polyvalent,8:00,16:00
+2024-03-31,Magasin_5,E3_Magasin_5,Caissier,12:00,20:00
+2024-03-31,Magasin_5,E4_Magasin_5,Employé polyvalent,13:00,21:00
