@@ -9,4 +9,6 @@ openpyxl
 plotly
 pystan
 prophet
-
+holidays
+warnings
+pathlib
