@@ -3,13 +3,17 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.10
-  - pip
+  - python=3.10.13  # Version spécifique recommandée
+  - pip=24.0
+  - numpy=1.24.4
+  - pandas=2.0.3
+  - matplotlib=3.7.2
   - pip:
-      - streamlit
-      - prophet
-      - pandas
-      - matplotlib
-      - seaborn
-      - scikit-learn
-      - ipykernel
+    - streamlit>=1.30
+    - prophet==1.1.5  # Version spécifique pour stabilité
+    - plotly>=5.15.0
+    - holidays==0.28  # Version compatible avec Prophet
+    - seaborn==0.12.2
+    - scikit-learn==1.3.2
+    - ipykernel==6.28.0
+    - cmdstanpy==1.2.2  # Dépendance critique pour Prophet
